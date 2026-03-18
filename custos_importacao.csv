@@ -1,0 +1,1261 @@
+product_id,product_name,category,start_date,usd_price
+1,Transponder AIS Maré Magnum,eletrônicos,10/08/2016,10583.63
+1,Transponder AIS Maré Magnum,eletrônicos,15/06/2018,8778.36
+1,Transponder AIS Maré Magnum,eletrônicos,25/09/2018,8023.87
+1,Transponder AIS Maré Magnum,eletrônicos,19/03/2019,8772.78
+1,Transponder AIS Maré Magnum,eletrônicos,17/01/2020,7918.18
+1,Transponder AIS Maré Magnum,eletrônicos,17/06/2020,6310.01
+1,Transponder AIS Maré Magnum,eletrônicos,02/07/2021,6586.7
+1,Transponder AIS Maré Magnum,eletrônicos,16/05/2022,6538.2
+1,Transponder AIS Maré Magnum,eletrônicos,28/02/2023,6360.91
+1,Transponder AIS Maré Magnum,eletrônicos,17/10/2023,6574.8
+1,Transponder AIS Maré Magnum,eletrônicos,16/02/2024,6657.12
+1,Transponder AIS Maré Magnum,eletrônicos,22/02/2024,6703.2
+1,Transponder AIS Maré Magnum,eletrônicos,15/03/2024,6633.66
+1,Transponder AIS Maré Magnum,eletrônicos,02/08/2024,5774.5
+1,Transponder AIS Maré Magnum,eletrônicos,08/04/2025,5579.75
+2,Transponder Furuno Marlin,eletrônicos,23/11/2017,4325.09
+2,Transponder Furuno Marlin,eletrônicos,06/07/2022,2577.22
+2,Transponder Furuno Marlin,eletrônicos,24/05/2023,2829.74
+2,Transponder Furuno Marlin,eletrônicos,05/11/2025,2602.27
+3,Radar Furuno Pulse Leviathan,eletrônicos,12/04/2016,2549.21
+3,Radar Furuno Pulse Leviathan,eletrônicos,26/07/2018,2423.45
+3,Radar Furuno Pulse Leviathan,eletrônicos,27/06/2019,2335.69
+3,Radar Furuno Pulse Leviathan,eletrônicos,17/07/2019,2399.28
+3,Radar Furuno Pulse Leviathan,eletrônicos,14/10/2019,2187.31
+3,Radar Furuno Pulse Leviathan,eletrônicos,04/12/2020,1745.49
+3,Radar Furuno Pulse Leviathan,eletrônicos,21/06/2022,1753.77
+4,Rádio AIS Hydro Tidal Zen,eletrônicos,04/03/2016,909.55
+4,Rádio AIS Hydro Tidal Zen,eletrônicos,22/11/2016,1010.42
+4,Rádio AIS Hydro Tidal Zen,eletrônicos,19/04/2017,1080.89
+4,Rádio AIS Hydro Tidal Zen,eletrônicos,22/11/2018,887.7
+4,Rádio AIS Hydro Tidal Zen,eletrônicos,21/09/2022,654.31
+4,Rádio AIS Hydro Tidal Zen,eletrônicos,28/11/2023,692.14
+4,Rádio AIS Hydro Tidal Zen,eletrônicos,13/03/2024,679.13
+4,Rádio AIS Hydro Tidal Zen,eletrônicos,10/03/2025,583.85
+5,Piloto Automático Furuno Storm,eletrônicos,10/02/2016,6006.45
+5,Piloto Automático Furuno Storm,eletrônicos,17/01/2017,7374.9
+5,Piloto Automático Furuno Storm,eletrônicos,18/02/2021,4364.4
+5,Piloto Automático Furuno Storm,eletrônicos,03/05/2022,4718.61
+5,Piloto Automático Furuno Storm,eletrônicos,24/05/2022,4920.79
+5,Piloto Automático Furuno Storm,eletrônicos,15/08/2023,4752.24
+5,Piloto Automático Furuno Storm,eletrônicos,24/09/2024,4327.37
+5,Piloto Automático Furuno Storm,eletrônicos,24/07/2025,4285.3
+6,Transponder AIS Vector,eletrônicos,23/07/2020,2288.92
+6,Transponder AIS Vector,eletrônicos,01/12/2021,2104.66
+6,Transponder AIS Vector,eletrônicos,07/03/2024,2394.79
+6,Transponder AIS Vector,eletrônicos,21/06/2024,2172.43
+6,Transponder AIS Vector,eletrônicos,04/12/2024,1951.33
+6,Transponder AIS Vector,eletrônicos,19/03/2025,2086.5
+7,Radar AIS Zen,eletrônicos,26/10/2016,6253.41
+7,Radar AIS Zen,eletrônicos,21/06/2017,5871.9
+7,Radar AIS Zen,eletrônicos,08/05/2018,5454.91
+7,Radar AIS Zen,eletrônicos,12/12/2022,3678.62
+7,Radar AIS Zen,eletrônicos,18/08/2025,3604.64
+8,GPS AIS Zen,eletrônicos,06/12/2019,1193.04
+8,GPS AIS Zen,eletrônicos,19/06/2020,932.31
+8,GPS AIS Zen,eletrônicos,18/02/2021,919.04
+8,GPS AIS Zen,eletrônicos,06/08/2021,951.1
+8,GPS AIS Zen,eletrônicos,23/03/2023,947.09
+8,GPS AIS Zen,eletrônicos,10/05/2023,1006.07
+8,GPS AIS Zen,eletrônicos,16/04/2024,947.05
+8,GPS AIS Zen,eletrônicos,03/06/2025,879.22
+9,Transponder AIS Titan Pulse,eletrônicos,26/12/2018,10115.54
+9,Transponder AIS Titan Pulse,eletrônicos,21/05/2020,7088.62
+9,Transponder AIS Titan Pulse,eletrônicos,10/12/2020,7808.97
+9,Transponder AIS Titan Pulse,eletrônicos,05/05/2022,7933.96
+9,Transponder AIS Titan Pulse,eletrônicos,16/04/2024,7544.56
+9,Transponder AIS Titan Pulse,eletrônicos,21/08/2024,7258.64
+10,Piloto Automático Simrad Titan Flux Magnum,eletrônicos,29/05/2018,8591.86
+10,Piloto Automático Simrad Titan Flux Magnum,eletrônicos,16/11/2021,5849.07
+10,Piloto Automático Simrad Titan Flux Magnum,eletrônicos,20/12/2021,5615.0
+10,Piloto Automático Simrad Titan Flux Magnum,eletrônicos,23/05/2023,6449.43
+10,Piloto Automático Simrad Titan Flux Magnum,eletrônicos,29/06/2023,6594.15
+10,Piloto Automático Simrad Titan Flux Magnum,eletrônicos,05/09/2023,6445.41
+10,Piloto Automático Simrad Titan Flux Magnum,eletrônicos,13/11/2023,6505.49
+10,Piloto Automático Simrad Titan Flux Magnum,eletrônicos,24/11/2023,6547.91
+10,Piloto Automático Simrad Titan Flux Magnum,eletrônicos,07/10/2024,5864.71
+10,Piloto Automático Simrad Titan Flux Magnum,eletrônicos,21/03/2025,5596.76
+10,Piloto Automático Simrad Titan Flux Magnum,eletrônicos,01/10/2025,6021.02
+11,GPS Furuno Swift Leviathan Poseidon,eletrônicos,18/02/2016,9039.0
+11,GPS Furuno Swift Leviathan Poseidon,eletrônicos,07/10/2016,11277.36
+11,GPS Furuno Swift Leviathan Poseidon,eletrônicos,14/10/2016,11372.94
+11,GPS Furuno Swift Leviathan Poseidon,eletrônicos,23/04/2018,10527.94
+11,GPS Furuno Swift Leviathan Poseidon,eletrônicos,15/10/2019,8734.37
+11,GPS Furuno Swift Leviathan Poseidon,eletrônicos,13/01/2020,8772.22
+11,GPS Furuno Swift Leviathan Poseidon,eletrônicos,27/11/2020,6773.84
+11,GPS Furuno Swift Leviathan Poseidon,eletrônicos,14/05/2021,6875.78
+11,GPS Furuno Swift Leviathan Poseidon,eletrônicos,27/01/2022,6733.8
+11,GPS Furuno Swift Leviathan Poseidon,eletrônicos,15/03/2023,6839.44
+11,GPS Furuno Swift Leviathan Poseidon,eletrônicos,09/05/2023,7246.24
+11,GPS Furuno Swift Leviathan Poseidon,eletrônicos,20/05/2025,6399.81
+12,GPS AIS Drift Flux Vox,eletrônicos,03/02/2016,689.26
+12,GPS AIS Drift Flux Vox,eletrônicos,21/03/2016,752.61
+12,GPS AIS Drift Flux Vox,eletrônicos,22/09/2017,871.57
+12,GPS AIS Drift Flux Vox,eletrônicos,18/09/2018,659.09
+12,GPS AIS Drift Flux Vox,eletrônicos,09/10/2018,729.22
+12,GPS AIS Drift Flux Vox,eletrônicos,02/01/2019,706.47
+12,GPS AIS Drift Flux Vox,eletrônicos,07/02/2020,632.96
+12,GPS AIS Drift Flux Vox,eletrônicos,20/06/2022,527.97
+12,GPS AIS Drift Flux Vox,eletrônicos,31/07/2024,481.53
+12,GPS AIS Drift Flux Vox,eletrônicos,20/05/2025,481.54
+12,GPS AIS Drift Flux Vox,eletrônicos,20/06/2025,496.11
+12,GPS AIS Drift Flux Vox,eletrônicos,10/07/2025,491.85
+13,Radar Simrad Boost,eletrônicos,22/03/2017,2504.48
+13,Radar Simrad Boost,eletrônicos,08/01/2018,2394.7
+13,Radar Simrad Boost,eletrônicos,19/02/2019,2082.55
+13,Radar Simrad Boost,eletrônicos,12/12/2019,1885.58
+13,Radar Simrad Boost,eletrônicos,22/10/2021,1356.5
+14,Rádio Furuno Zen Swift,eletrônicos,10/11/2016,10819.71
+14,Rádio Furuno Zen Swift,eletrônicos,05/05/2017,11276.24
+14,Rádio Furuno Zen Swift,eletrônicos,10/01/2020,8790.37
+14,Rádio Furuno Zen Swift,eletrônicos,12/08/2021,6841.36
+14,Rádio Furuno Zen Swift,eletrônicos,17/02/2023,6885.95
+14,Rádio Furuno Zen Swift,eletrônicos,24/03/2023,6767.66
+14,Rádio Furuno Zen Swift,eletrônicos,03/05/2024,7068.63
+14,Rádio Furuno Zen Swift,eletrônicos,31/05/2024,6832.87
+14,Rádio Furuno Zen Swift,eletrônicos,24/02/2025,6254.99
+14,Rádio Furuno Zen Swift,eletrônicos,02/09/2025,6549.93
+15,Radar Garmin Tidal Thrust,eletrônicos,23/06/2017,8369.26
+15,Radar Garmin Tidal Thrust,eletrônicos,17/05/2019,6831.81
+15,Radar Garmin Tidal Thrust,eletrônicos,21/08/2019,6931.96
+15,Radar Garmin Tidal Thrust,eletrônicos,17/01/2020,6669.64
+15,Radar Garmin Tidal Thrust,eletrônicos,26/11/2020,5244.81
+15,Radar Garmin Tidal Thrust,eletrônicos,06/12/2022,5325.4
+15,Radar Garmin Tidal Thrust,eletrônicos,09/01/2023,5267.98
+15,Radar Garmin Tidal Thrust,eletrônicos,25/09/2024,5097.71
+15,Radar Garmin Tidal Thrust,eletrônicos,27/01/2025,4707.55
+16,Sonda Garmin Axis,eletrônicos,13/04/2016,8470.76
+16,Sonda Garmin Axis,eletrônicos,19/12/2016,8884.87
+16,Sonda Garmin Axis,eletrônicos,19/02/2018,9278.0
+16,Sonda Garmin Axis,eletrônicos,06/09/2018,7238.38
+16,Sonda Garmin Axis,eletrônicos,31/10/2018,8072.42
+16,Sonda Garmin Axis,eletrônicos,20/05/2020,5267.72
+16,Sonda Garmin Axis,eletrônicos,27/07/2020,5783.4
+16,Sonda Garmin Axis,eletrônicos,02/01/2023,5615.94
+16,Sonda Garmin Axis,eletrônicos,27/12/2023,6212.42
+16,Sonda Garmin Axis,eletrônicos,19/06/2024,5491.48
+16,Sonda Garmin Axis,eletrônicos,10/01/2025,4922.32
+16,Sonda Garmin Axis,eletrônicos,15/08/2025,5564.7
+17,Rádio AIS Oceanic Pulse,eletrônicos,23/06/2016,4187.31
+17,Rádio AIS Oceanic Pulse,eletrônicos,09/11/2016,4352.84
+17,Rádio AIS Oceanic Pulse,eletrônicos,24/08/2017,4471.23
+17,Rádio AIS Oceanic Pulse,eletrônicos,22/02/2018,4307.43
+17,Rádio AIS Oceanic Pulse,eletrônicos,06/08/2018,3773.05
+17,Rádio AIS Oceanic Pulse,eletrônicos,10/07/2019,3724.7
+17,Rádio AIS Oceanic Pulse,eletrônicos,28/08/2019,3378.52
+17,Rádio AIS Oceanic Pulse,eletrônicos,22/09/2020,2584.32
+17,Rádio AIS Oceanic Pulse,eletrônicos,30/12/2020,2701.79
+17,Rádio AIS Oceanic Pulse,eletrônicos,15/07/2021,2753.03
+17,Rádio AIS Oceanic Pulse,eletrônicos,26/12/2022,2706.74
+17,Rádio AIS Oceanic Pulse,eletrônicos,02/06/2023,2833.14
+18,Rádio Simrad Axis,eletrônicos,15/02/2016,6663.27
+18,Rádio Simrad Axis,eletrônicos,12/04/2016,7506.34
+18,Rádio Simrad Axis,eletrônicos,27/04/2016,7529.95
+18,Rádio Simrad Axis,eletrônicos,04/04/2017,8509.99
+18,Rádio Simrad Axis,eletrônicos,02/01/2018,8128.37
+18,Rádio Simrad Axis,eletrônicos,14/03/2018,8156.56
+18,Rádio Simrad Axis,eletrônicos,25/03/2019,6854.93
+18,Rádio Simrad Axis,eletrônicos,01/07/2019,6958.51
+18,Rádio Simrad Axis,eletrônicos,02/10/2019,6396.83
+18,Rádio Simrad Axis,eletrônicos,24/09/2021,4973.41
+18,Rádio Simrad Axis,eletrônicos,25/01/2022,4834.43
+18,Rádio Simrad Axis,eletrônicos,19/07/2023,5536.62
+18,Rádio Simrad Axis,eletrônicos,02/04/2024,5265.1
+18,Rádio Simrad Axis,eletrônicos,05/02/2025,4582.17
+18,Rádio Simrad Axis,eletrônicos,04/12/2025,5018.78
+19,Sonda Lowrance Tidal Storm Vox,eletrônicos,17/03/2016,4509.55
+19,Sonda Lowrance Tidal Storm Vox,eletrônicos,25/04/2016,4633.27
+19,Sonda Lowrance Tidal Storm Vox,eletrônicos,25/05/2016,4590.3
+19,Sonda Lowrance Tidal Storm Vox,eletrônicos,11/11/2016,4780.88
+19,Sonda Lowrance Tidal Storm Vox,eletrônicos,04/09/2017,5236.07
+19,Sonda Lowrance Tidal Storm Vox,eletrônicos,28/09/2017,5156.86
+19,Sonda Lowrance Tidal Storm Vox,eletrônicos,25/05/2021,3092.45
+19,Sonda Lowrance Tidal Storm Vox,eletrônicos,30/08/2021,3163.35
+19,Sonda Lowrance Tidal Storm Vox,eletrônicos,28/08/2023,3358.13
+19,Sonda Lowrance Tidal Storm Vox,eletrônicos,12/02/2025,2847.65
+20,Radar AIS Marlin,eletrônicos,04/07/2016,9494.81
+20,Radar AIS Marlin,eletrônicos,23/01/2020,7401.92
+20,Radar AIS Marlin,eletrônicos,04/10/2021,5689.04
+21,GPS AIS Nautic Thrust,eletrônicos,19/02/2016,2157.43
+21,GPS AIS Nautic Thrust,eletrônicos,04/09/2017,2783.21
+21,GPS AIS Nautic Thrust,eletrônicos,25/04/2018,2493.17
+21,GPS AIS Nautic Thrust,eletrônicos,26/02/2019,2323.7
+21,GPS AIS Nautic Thrust,eletrônicos,10/06/2019,2252.1
+21,GPS AIS Nautic Thrust,eletrônicos,29/10/2019,2186.92
+21,GPS AIS Nautic Thrust,eletrônicos,01/11/2019,2195.72
+21,GPS AIS Nautic Thrust,eletrônicos,23/04/2020,1603.82
+21,GPS AIS Nautic Thrust,eletrônicos,18/10/2021,1582.72
+21,GPS AIS Nautic Thrust,eletrônicos,30/12/2022,1674.22
+21,GPS AIS Nautic Thrust,eletrônicos,30/04/2024,1689.08
+21,GPS AIS Nautic Thrust,eletrônicos,09/08/2024,1584.96
+21,GPS AIS Nautic Thrust,eletrônicos,26/08/2025,1611.19
+21,GPS AIS Nautic Thrust,eletrônicos,13/11/2025,1653.83
+22,Transponder Furuno Force Ion,eletrônicos,20/02/2019,10635.91
+22,Transponder Furuno Force Ion,eletrônicos,06/05/2020,6961.86
+22,Transponder Furuno Force Ion,eletrônicos,04/02/2021,7319.1
+22,Transponder Furuno Force Ion,eletrônicos,22/08/2022,7630.67
+22,Transponder Furuno Force Ion,eletrônicos,17/03/2025,6912.34
+22,Transponder Furuno Force Ion,eletrônicos,16/04/2025,6709.44
+22,Transponder Furuno Force Ion,eletrônicos,23/07/2025,7104.66
+23,Piloto Automático Furuno Torque Peak,eletrônicos,16/09/2016,3387.67
+23,Piloto Automático Furuno Torque Peak,eletrônicos,25/10/2016,3584.39
+23,Piloto Automático Furuno Torque Peak,eletrônicos,15/08/2018,2856.94
+23,Piloto Automático Furuno Torque Peak,eletrônicos,28/12/2018,2885.4
+23,Piloto Automático Furuno Torque Peak,eletrônicos,09/01/2019,3027.39
+23,Piloto Automático Furuno Torque Peak,eletrônicos,14/01/2022,2019.88
+23,Piloto Automático Furuno Torque Peak,eletrônicos,13/10/2022,2108.74
+23,Piloto Automático Furuno Torque Peak,eletrônicos,21/03/2024,2244.66
+24,GPS AIS Orca Marlin Velocity,eletrônicos,30/05/2018,6217.8
+24,GPS AIS Orca Marlin Velocity,eletrônicos,14/08/2018,5986.75
+24,GPS AIS Orca Marlin Velocity,eletrônicos,25/02/2019,6231.98
+24,GPS AIS Orca Marlin Velocity,eletrônicos,14/05/2019,5839.87
+24,GPS AIS Orca Marlin Velocity,eletrônicos,16/12/2019,5694.86
+24,GPS AIS Orca Marlin Velocity,eletrônicos,06/04/2021,4129.65
+24,GPS AIS Orca Marlin Velocity,eletrônicos,29/07/2024,4113.86
+24,GPS AIS Orca Marlin Velocity,eletrônicos,30/12/2024,3752.15
+24,GPS AIS Orca Marlin Velocity,eletrônicos,16/05/2025,4081.62
+24,GPS AIS Orca Marlin Velocity,eletrônicos,23/09/2025,4378.72
+25,Rádio Lowrance Nitro Thrust Barracuda,eletrônicos,01/10/2018,3011.51
+25,Rádio Lowrance Nitro Thrust Barracuda,eletrônicos,22/07/2020,2372.85
+25,Rádio Lowrance Nitro Thrust Barracuda,eletrônicos,04/03/2022,2389.36
+25,Rádio Lowrance Nitro Thrust Barracuda,eletrônicos,29/11/2023,2478.48
+25,Rádio Lowrance Nitro Thrust Barracuda,eletrônicos,22/03/2024,2430.59
+25,Rádio Lowrance Nitro Thrust Barracuda,eletrônicos,18/10/2024,2139.99
+25,Rádio Lowrance Nitro Thrust Barracuda,eletrônicos,07/01/2025,1996.62
+25,Rádio Lowrance Nitro Thrust Barracuda,eletrônicos,20/08/2025,2216.09
+25,Rádio Lowrance Nitro Thrust Barracuda,eletrônicos,15/10/2025,2226.75
+25,Rádio Lowrance Nitro Thrust Barracuda,eletrônicos,31/12/2025,2204.09
+26,Piloto Automático Furuno Core Boost Flux,eletrônicos,14/06/2017,5264.45
+26,Piloto Automático Furuno Core Boost Flux,eletrônicos,14/07/2017,5419.11
+26,Piloto Automático Furuno Core Boost Flux,eletrônicos,23/04/2018,5021.99
+26,Piloto Automático Furuno Core Boost Flux,eletrônicos,18/02/2019,4632.32
+26,Piloto Automático Furuno Core Boost Flux,eletrônicos,14/03/2022,3412.88
+26,Piloto Automático Furuno Core Boost Flux,eletrônicos,08/05/2024,3396.78
+26,Piloto Automático Furuno Core Boost Flux,eletrônicos,17/05/2024,3378.85
+26,Piloto Automático Furuno Core Boost Flux,eletrônicos,23/09/2025,3257.47
+26,Piloto Automático Furuno Core Boost Flux,eletrônicos,04/11/2025,3210.1
+27,GPS Garmin Vortex Maré Drift,eletrônicos,08/07/2016,5009.24
+27,GPS Garmin Vortex Maré Drift,eletrônicos,26/06/2017,4985.04
+27,GPS Garmin Vortex Maré Drift,eletrônicos,07/03/2018,5110.01
+27,GPS Garmin Vortex Maré Drift,eletrônicos,29/05/2019,4132.1
+27,GPS Garmin Vortex Maré Drift,eletrônicos,21/08/2019,4102.43
+27,GPS Garmin Vortex Maré Drift,eletrônicos,10/06/2020,3377.4
+27,GPS Garmin Vortex Maré Drift,eletrônicos,25/06/2020,3098.94
+27,GPS Garmin Vortex Maré Drift,eletrônicos,21/01/2021,3105.99
+27,GPS Garmin Vortex Maré Drift,eletrônicos,08/06/2021,3270.7
+27,GPS Garmin Vortex Maré Drift,eletrônicos,18/06/2021,3282.07
+27,GPS Garmin Vortex Maré Drift,eletrônicos,12/07/2022,3051.23
+27,GPS Garmin Vortex Maré Drift,eletrônicos,26/05/2025,2916.55
+27,GPS Garmin Vortex Maré Drift,eletrônicos,08/07/2025,3026.01
+28,Piloto Automático AIS Core,eletrônicos,18/06/2018,3798.53
+28,Piloto Automático AIS Core,eletrônicos,30/08/2019,3445.84
+28,Piloto Automático AIS Core,eletrônicos,11/09/2019,3509.8
+28,Piloto Automático AIS Core,eletrônicos,03/12/2019,3394.73
+28,Piloto Automático AIS Core,eletrônicos,29/01/2020,3394.33
+28,Piloto Automático AIS Core,eletrônicos,14/08/2020,2648.03
+28,Piloto Automático AIS Core,eletrônicos,02/09/2020,2653.5
+28,Piloto Automático AIS Core,eletrônicos,14/03/2023,2723.39
+28,Piloto Automático AIS Core,eletrônicos,21/11/2023,2921.84
+28,Piloto Automático AIS Core,eletrônicos,14/05/2024,2776.74
+28,Piloto Automático AIS Core,eletrônicos,26/08/2025,2630.15
+29,Rádio Simrad Orca,eletrônicos,18/04/2017,11795.79
+29,Rádio Simrad Orca,eletrônicos,29/03/2022,7689.63
+29,Rádio Simrad Orca,eletrônicos,11/08/2025,6703.2
+30,Transponder AIS Boost,eletrônicos,15/05/2018,8775.65
+30,Transponder AIS Boost,eletrônicos,19/05/2020,5636.75
+30,Transponder AIS Boost,eletrônicos,04/09/2023,6558.44
+31,Transponder Furuno Pulse Axis,eletrônicos,15/01/2016,2050.48
+31,Transponder Furuno Pulse Axis,eletrônicos,10/06/2016,2418.07
+31,Transponder Furuno Pulse Axis,eletrônicos,18/07/2023,1724.43
+31,Transponder Furuno Pulse Axis,eletrônicos,22/09/2023,1686.13
+31,Transponder Furuno Pulse Axis,eletrônicos,03/07/2024,1482.91
+31,Transponder Furuno Pulse Axis,eletrônicos,28/07/2025,1482.54
+32,Sonda AIS Impulse Oceanic Zenith,eletrônicos,08/01/2016,3106.66
+32,Sonda AIS Impulse Oceanic Zenith,eletrônicos,03/11/2020,2197.69
+32,Sonda AIS Impulse Oceanic Zenith,eletrônicos,02/03/2021,2199.67
+32,Sonda AIS Impulse Oceanic Zenith,eletrônicos,25/05/2022,2585.66
+32,Sonda AIS Impulse Oceanic Zenith,eletrônicos,12/06/2023,2560.62
+32,Sonda AIS Impulse Oceanic Zenith,eletrônicos,11/01/2024,2562.61
+32,Sonda AIS Impulse Oceanic Zenith,eletrônicos,23/05/2024,2430.64
+32,Sonda AIS Impulse Oceanic Zenith,eletrônicos,23/07/2024,2240.54
+32,Sonda AIS Impulse Oceanic Zenith,eletrônicos,07/10/2024,2288.99
+32,Sonda AIS Impulse Oceanic Zenith,eletrônicos,08/05/2025,2199.05
+32,Sonda AIS Impulse Oceanic Zenith,eletrônicos,09/05/2025,2212.63
+32,Sonda AIS Impulse Oceanic Zenith,eletrônicos,28/08/2025,2310.61
+33,Transponder Garmin Drift Vortex Marlin,eletrônicos,20/09/2018,1638.35
+33,Transponder Garmin Drift Vortex Marlin,eletrônicos,26/08/2020,1206.27
+33,Transponder Garmin Drift Vortex Marlin,eletrônicos,10/09/2020,1268.8
+33,Transponder Garmin Drift Vortex Marlin,eletrônicos,10/04/2024,1325.97
+34,Transponder AIS Helix Torque,eletrônicos,02/12/2016,1419.45
+34,Transponder AIS Helix Torque,eletrônicos,04/05/2018,1392.99
+34,Transponder AIS Helix Torque,eletrônicos,14/05/2021,933.21
+34,Transponder AIS Helix Torque,eletrônicos,02/08/2021,957.22
+34,Transponder AIS Helix Torque,eletrônicos,09/08/2022,960.12
+34,Transponder AIS Helix Torque,eletrônicos,02/08/2023,1022.84
+34,Transponder AIS Helix Torque,eletrônicos,25/04/2024,951.66
+35,Radar Furuno Swift,eletrônicos,28/08/2019,2648.55
+35,Radar Furuno Swift,eletrônicos,13/02/2020,2536.83
+35,Radar Furuno Swift,eletrônicos,21/02/2020,2505.93
+35,Radar Furuno Swift,eletrônicos,29/04/2020,2027.36
+35,Radar Furuno Swift,eletrônicos,09/03/2022,2197.24
+35,Radar Furuno Swift,eletrônicos,07/04/2022,2321.06
+35,Radar Furuno Swift,eletrônicos,05/05/2022,2199.13
+35,Radar Furuno Swift,eletrônicos,15/02/2023,2106.85
+35,Radar Furuno Swift,eletrônicos,30/09/2025,2069.49
+36,Radar Lowrance Aqua Pulse,eletrônicos,20/07/2016,6952.99
+36,Radar Lowrance Aqua Pulse,eletrônicos,24/10/2017,6961.99
+36,Radar Lowrance Aqua Pulse,eletrônicos,25/04/2019,5690.32
+36,Radar Lowrance Aqua Pulse,eletrônicos,17/01/2020,5403.02
+36,Radar Lowrance Aqua Pulse,eletrônicos,17/07/2020,4224.24
+36,Radar Lowrance Aqua Pulse,eletrônicos,26/11/2020,4248.78
+36,Radar Lowrance Aqua Pulse,eletrônicos,12/03/2021,4062.51
+36,Radar Lowrance Aqua Pulse,eletrônicos,19/03/2021,4103.67
+36,Radar Lowrance Aqua Pulse,eletrônicos,06/05/2021,4273.2
+36,Radar Lowrance Aqua Pulse,eletrônicos,10/05/2022,4398.53
+36,Radar Lowrance Aqua Pulse,eletrônicos,26/09/2022,4221.25
+36,Radar Lowrance Aqua Pulse,eletrônicos,02/06/2023,4561.15
+36,Radar Lowrance Aqua Pulse,eletrônicos,22/06/2023,4733.87
+36,Radar Lowrance Aqua Pulse,eletrônicos,11/10/2023,4476.41
+36,Radar Lowrance Aqua Pulse,eletrônicos,10/07/2025,4077.69
+37,GPS Lowrance Evo Storm Drift,eletrônicos,13/06/2016,1757.38
+37,GPS Lowrance Evo Storm Drift,eletrônicos,12/06/2019,1578.86
+37,GPS Lowrance Evo Storm Drift,eletrônicos,02/03/2020,1350.18
+37,GPS Lowrance Evo Storm Drift,eletrônicos,19/07/2021,1167.5
+37,GPS Lowrance Evo Storm Drift,eletrônicos,03/09/2021,1174.12
+37,GPS Lowrance Evo Storm Drift,eletrônicos,15/06/2022,1187.12
+37,GPS Lowrance Evo Storm Drift,eletrônicos,28/09/2022,1132.29
+37,GPS Lowrance Evo Storm Drift,eletrônicos,09/03/2023,1181.71
+37,GPS Lowrance Evo Storm Drift,eletrônicos,30/10/2023,1211.89
+37,GPS Lowrance Evo Storm Drift,eletrônicos,11/12/2024,1006.02
+37,GPS Lowrance Evo Storm Drift,eletrônicos,10/01/2025,995.38
+37,GPS Lowrance Evo Storm Drift,eletrônicos,20/06/2025,1104.2
+38,Rádio AIS Force,eletrônicos,16/01/2018,8214.43
+38,Rádio AIS Force,eletrônicos,29/03/2018,7962.55
+38,Rádio AIS Force,eletrônicos,21/08/2020,4720.31
+38,Rádio AIS Force,eletrônicos,25/08/2020,4725.96
+38,Rádio AIS Force,eletrônicos,21/10/2022,5097.21
+38,Rádio AIS Force,eletrônicos,27/07/2023,5606.65
+38,Rádio AIS Force,eletrônicos,30/08/2023,5439.42
+38,Rádio AIS Force,eletrônicos,20/08/2024,4851.61
+39,GPS Furuno Vector,eletrônicos,19/04/2016,8339.76
+39,GPS Furuno Vector,eletrônicos,08/06/2020,6007.67
+39,GPS Furuno Vector,eletrônicos,16/10/2020,5270.87
+40,Sonda Furuno Maré Tidal,eletrônicos,22/02/2017,4602.52
+40,Sonda Furuno Maré Tidal,eletrônicos,26/07/2018,3809.13
+40,Sonda Furuno Maré Tidal,eletrônicos,02/08/2018,3768.44
+40,Sonda Furuno Maré Tidal,eletrônicos,13/06/2019,3691.55
+40,Sonda Furuno Maré Tidal,eletrônicos,30/07/2019,3743.08
+40,Sonda Furuno Maré Tidal,eletrônicos,07/05/2020,2430.48
+40,Sonda Furuno Maré Tidal,eletrônicos,29/12/2020,2731.06
+40,Sonda Furuno Maré Tidal,eletrônicos,02/06/2022,2962.85
+40,Sonda Furuno Maré Tidal,eletrônicos,23/12/2022,2757.45
+40,Sonda Furuno Maré Tidal,eletrônicos,01/08/2023,2970.73
+40,Sonda Furuno Maré Tidal,eletrônicos,19/01/2024,2881.94
+40,Sonda Furuno Maré Tidal,eletrônicos,04/03/2024,2867.26
+41,GPS Simrad Flow Pulse,eletrônicos,06/12/2017,3276.86
+41,GPS Simrad Flow Pulse,eletrônicos,08/10/2020,1886.32
+41,GPS Simrad Flow Pulse,eletrônicos,06/01/2023,2005.71
+41,GPS Simrad Flow Pulse,eletrônicos,22/07/2024,1906.75
+41,GPS Simrad Flow Pulse,eletrônicos,01/10/2024,1944.42
+41,GPS Simrad Flow Pulse,eletrônicos,12/12/2024,1784.45
+41,GPS Simrad Flow Pulse,eletrônicos,23/01/2025,1784.72
+42,Transponder Lowrance Axis,eletrônicos,10/04/2017,1908.37
+42,Transponder Lowrance Axis,eletrônicos,06/06/2017,1826.47
+42,Transponder Lowrance Axis,eletrônicos,27/05/2022,1263.57
+43,Sonda AIS Barracuda,eletrônicos,06/02/2018,10763.6
+43,Sonda AIS Barracuda,eletrônicos,17/02/2021,6483.57
+43,Sonda AIS Barracuda,eletrônicos,28/12/2021,6219.32
+43,Sonda AIS Barracuda,eletrônicos,07/10/2025,6577.74
+44,GPS Simrad Zen Hydra Peak,eletrônicos,24/03/2017,3455.31
+44,GPS Simrad Zen Hydra Peak,eletrônicos,21/06/2017,3251.06
+44,GPS Simrad Zen Hydra Peak,eletrônicos,29/08/2017,3410.28
+44,GPS Simrad Zen Hydra Peak,eletrônicos,18/09/2017,3460.07
+44,GPS Simrad Zen Hydra Peak,eletrônicos,25/10/2017,3337.4
+44,GPS Simrad Zen Hydra Peak,eletrônicos,26/09/2019,2606.38
+44,GPS Simrad Zen Hydra Peak,eletrônicos,17/01/2022,1963.02
+44,GPS Simrad Zen Hydra Peak,eletrônicos,05/02/2024,2159.34
+44,GPS Simrad Zen Hydra Peak,eletrônicos,19/02/2025,1893.25
+44,GPS Simrad Zen Hydra Peak,eletrônicos,25/08/2025,1995.06
+45,GPS Furuno Current,eletrônicos,17/05/2016,2827.13
+45,GPS Furuno Current,eletrônicos,23/06/2017,2970.88
+45,GPS Furuno Current,eletrônicos,08/11/2018,2649.11
+45,GPS Furuno Current,eletrônicos,14/02/2019,2623.5
+45,GPS Furuno Current,eletrônicos,22/05/2019,2462.26
+45,GPS Furuno Current,eletrônicos,21/07/2020,1894.47
+45,GPS Furuno Current,eletrônicos,17/11/2020,1835.31
+45,GPS Furuno Current,eletrônicos,03/02/2022,1867.95
+45,GPS Furuno Current,eletrônicos,14/02/2022,1900.9
+45,GPS Furuno Current,eletrônicos,22/03/2023,1881.33
+45,GPS Furuno Current,eletrônicos,19/05/2025,1750.24
+46,Sonda AIS Magnum Boost,eletrônicos,06/10/2016,1542.77
+46,Sonda AIS Magnum Boost,eletrônicos,14/11/2016,1447.09
+46,Sonda AIS Magnum Boost,eletrônicos,20/12/2016,1484.15
+46,Sonda AIS Magnum Boost,eletrônicos,26/12/2016,1524.32
+46,Sonda AIS Magnum Boost,eletrônicos,25/06/2018,1320.06
+46,Sonda AIS Magnum Boost,eletrônicos,11/09/2020,943.04
+46,Sonda AIS Magnum Boost,eletrônicos,25/09/2020,895.38
+46,Sonda AIS Magnum Boost,eletrônicos,04/05/2021,914.47
+46,Sonda AIS Magnum Boost,eletrônicos,20/08/2021,918.36
+46,Sonda AIS Magnum Boost,eletrônicos,02/12/2022,959.01
+46,Sonda AIS Magnum Boost,eletrônicos,24/05/2023,1007.47
+46,Sonda AIS Magnum Boost,eletrônicos,15/08/2023,1000.64
+46,Sonda AIS Magnum Boost,eletrônicos,08/07/2025,913.36
+47,Rádio Simrad Tidal Aqua,eletrônicos,04/01/2016,1516.33
+47,Rádio Simrad Tidal Aqua,eletrônicos,08/01/2016,1521.46
+47,Rádio Simrad Tidal Aqua,eletrônicos,25/11/2016,1786.53
+47,Rádio Simrad Tidal Aqua,eletrônicos,27/10/2017,1867.04
+47,Rádio Simrad Tidal Aqua,eletrônicos,18/09/2018,1480.3
+47,Rádio Simrad Tidal Aqua,eletrônicos,10/05/2019,1547.3
+47,Rádio Simrad Tidal Aqua,eletrônicos,15/05/2019,1529.78
+47,Rádio Simrad Tidal Aqua,eletrônicos,24/06/2019,1601.7
+47,Rádio Simrad Tidal Aqua,eletrônicos,07/11/2019,1496.29
+47,Rádio Simrad Tidal Aqua,eletrônicos,04/07/2024,1116.66
+47,Rádio Simrad Tidal Aqua,eletrônicos,13/11/2025,1159.34
+48,GPS Furuno Magnum Drift,eletrônicos,03/02/2017,4717.9
+48,GPS Furuno Magnum Drift,eletrônicos,13/02/2017,4727.89
+48,GPS Furuno Magnum Drift,eletrônicos,03/12/2018,3849.72
+48,GPS Furuno Magnum Drift,eletrônicos,21/07/2020,2818.9
+48,GPS Furuno Magnum Drift,eletrônicos,10/08/2020,2732.65
+48,GPS Furuno Magnum Drift,eletrônicos,31/12/2020,2836.04
+48,GPS Furuno Magnum Drift,eletrônicos,03/08/2023,3020.3
+48,GPS Furuno Magnum Drift,eletrônicos,15/03/2024,2951.34
+48,GPS Furuno Magnum Drift,eletrônicos,20/03/2024,2940.57
+48,GPS Furuno Magnum Drift,eletrônicos,12/09/2024,2605.99
+48,GPS Furuno Magnum Drift,eletrônicos,08/09/2025,2715.28
+49,Sonda Furuno Swift,eletrônicos,22/06/2016,3915.41
+49,Sonda Furuno Swift,eletrônicos,14/08/2020,2463.37
+49,Sonda Furuno Swift,eletrônicos,07/06/2021,2627.0
+49,Sonda Furuno Swift,eletrônicos,11/09/2024,2352.61
+50,Piloto Automático Simrad Poseidon Magnum,eletrônicos,19/05/2016,3132.48
+50,Piloto Automático Simrad Poseidon Magnum,eletrônicos,03/08/2016,3445.47
+50,Piloto Automático Simrad Poseidon Magnum,eletrônicos,24/10/2017,3473.38
+50,Piloto Automático Simrad Poseidon Magnum,eletrônicos,11/04/2019,2936.99
+50,Piloto Automático Simrad Poseidon Magnum,eletrônicos,24/04/2020,1995.61
+50,Piloto Automático Simrad Poseidon Magnum,eletrônicos,23/12/2020,2179.61
+50,Piloto Automático Simrad Poseidon Magnum,eletrônicos,31/07/2023,2378.45
+50,Piloto Automático Simrad Poseidon Magnum,eletrônicos,29/12/2025,2023.22
+51,Motor Diesel Tohatsu Evo Zenith 16HP,propulsão,20/04/2016,18074.48
+51,Motor Diesel Tohatsu Evo Zenith 16HP,propulsão,07/02/2017,20499.39
+51,Motor Diesel Tohatsu Evo Zenith 16HP,propulsão,21/02/2017,20720.51
+51,Motor Diesel Tohatsu Evo Zenith 16HP,propulsão,28/03/2017,20500.04
+51,Motor Diesel Tohatsu Evo Zenith 16HP,propulsão,09/05/2017,20143.48
+51,Motor Diesel Tohatsu Evo Zenith 16HP,propulsão,15/05/2018,17459.65
+51,Motor Diesel Tohatsu Evo Zenith 16HP,propulsão,29/05/2018,17208.64
+51,Motor Diesel Tohatsu Evo Zenith 16HP,propulsão,07/12/2018,16468.76
+51,Motor Diesel Tohatsu Evo Zenith 16HP,propulsão,23/04/2019,16271.62
+51,Motor Diesel Tohatsu Evo Zenith 16HP,propulsão,06/08/2020,12009.17
+51,Motor Diesel Tohatsu Evo Zenith 16HP,propulsão,18/12/2020,12585.13
+51,Motor Diesel Tohatsu Evo Zenith 16HP,propulsão,17/03/2021,11340.92
+51,Motor Diesel Tohatsu Evo Zenith 16HP,propulsão,22/09/2021,12156.62
+51,Motor Diesel Tohatsu Evo Zenith 16HP,propulsão,04/08/2022,12243.38
+51,Motor Diesel Tohatsu Evo Zenith 16HP,propulsão,01/10/2024,11769.05
+52,Motor Diesel Honda Zen Tidal Mako 26HP,propulsão,19/11/2018,3649.85
+52,Motor Diesel Honda Zen Tidal Mako 26HP,propulsão,10/09/2020,2589.1
+52,Motor Diesel Honda Zen Tidal Mako 26HP,propulsão,11/01/2023,2634.69
+52,Motor Diesel Honda Zen Tidal Mako 26HP,propulsão,29/07/2024,2426.66
+52,Motor Diesel Honda Zen Tidal Mako 26HP,propulsão,14/11/2025,2588.32
+53,Motor Elétrico Torqeedo Zen Titan Hydra 129HP,propulsão,14/02/2018,16499.65
+53,Motor Elétrico Torqeedo Zen Titan Hydra 129HP,propulsão,12/06/2019,13966.59
+53,Motor Elétrico Torqeedo Zen Titan Hydra 129HP,propulsão,02/12/2019,12702.64
+53,Motor Elétrico Torqeedo Zen Titan Hydra 129HP,propulsão,03/12/2019,12779.16
+53,Motor Elétrico Torqeedo Zen Titan Hydra 129HP,propulsão,17/09/2020,10206.9
+53,Motor Elétrico Torqeedo Zen Titan Hydra 129HP,propulsão,24/12/2020,10364.97
+53,Motor Elétrico Torqeedo Zen Titan Hydra 129HP,propulsão,19/07/2022,9958.63
+53,Motor Elétrico Torqeedo Zen Titan Hydra 129HP,propulsão,02/01/2023,10045.86
+53,Motor Elétrico Torqeedo Zen Titan Hydra 129HP,propulsão,26/07/2023,11332.93
+53,Motor Elétrico Torqeedo Zen Titan Hydra 129HP,propulsão,28/06/2024,9656.73
+53,Motor Elétrico Torqeedo Zen Titan Hydra 129HP,propulsão,06/08/2024,9496.3
+53,Motor Elétrico Torqeedo Zen Titan Hydra 129HP,propulsão,20/03/2025,9479.53
+53,Motor Elétrico Torqeedo Zen Titan Hydra 129HP,propulsão,26/09/2025,10044.16
+54,Motor de Popa Yamaha Evo Dash 155HP,propulsão,16/05/2016,34695.49
+54,Motor de Popa Yamaha Evo Dash 155HP,propulsão,28/09/2017,38140.54
+54,Motor de Popa Yamaha Evo Dash 155HP,propulsão,12/02/2019,32591.8
+54,Motor de Popa Yamaha Evo Dash 155HP,propulsão,06/08/2021,23191.9
+55,Motor Diesel Volvo Flow Oceanic 259HP,propulsão,19/01/2021,20776.21
+55,Motor Diesel Volvo Flow Oceanic 259HP,propulsão,14/04/2022,23326.09
+55,Motor Diesel Volvo Flow Oceanic 259HP,propulsão,06/02/2024,22138.68
+56,Motor Elétrico Torqeedo Velocity Swift 74HP,propulsão,07/12/2016,12685.17
+56,Motor Elétrico Torqeedo Velocity Swift 74HP,propulsão,19/12/2022,8087.59
+56,Motor Elétrico Torqeedo Velocity Swift 74HP,propulsão,31/01/2025,7374.35
+57,Motor de Popa Honda Vector Kinetic 174HP,propulsão,17/11/2017,36236.52
+57,Motor de Popa Honda Vector Kinetic 174HP,propulsão,02/03/2018,36429.89
+57,Motor de Popa Honda Vector Kinetic 174HP,propulsão,24/08/2018,29081.12
+57,Motor de Popa Honda Vector Kinetic 174HP,propulsão,09/01/2019,32170.77
+57,Motor de Popa Honda Vector Kinetic 174HP,propulsão,26/05/2020,22120.74
+57,Motor de Popa Honda Vector Kinetic 174HP,propulsão,14/08/2020,22061.17
+57,Motor de Popa Honda Vector Kinetic 174HP,propulsão,22/11/2021,21275.29
+57,Motor de Popa Honda Vector Kinetic 174HP,propulsão,16/12/2022,22497.79
+57,Motor de Popa Honda Vector Kinetic 174HP,propulsão,22/03/2024,23810.02
+57,Motor de Popa Honda Vector Kinetic 174HP,propulsão,26/11/2024,20486.78
+58,Motor de Popa Tohatsu Ion Core Nautic 53HP,propulsão,16/11/2017,33176.21
+58,Motor de Popa Tohatsu Ion Core Nautic 53HP,propulsão,08/05/2019,27663.99
+58,Motor de Popa Tohatsu Ion Core Nautic 53HP,propulsão,19/02/2021,20183.35
+58,Motor de Popa Tohatsu Ion Core Nautic 53HP,propulsão,13/07/2022,20157.55
+58,Motor de Popa Tohatsu Ion Core Nautic 53HP,propulsão,30/07/2024,19252.13
+58,Motor de Popa Tohatsu Ion Core Nautic 53HP,propulsão,23/08/2024,19694.26
+58,Motor de Popa Tohatsu Ion Core Nautic 53HP,propulsão,30/07/2025,19423.25
+58,Motor de Popa Tohatsu Ion Core Nautic 53HP,propulsão,27/11/2025,20347.13
+59,Motor Diesel Yanmar Hydro Magnum Boost 267HP,propulsão,25/09/2017,27754.61
+59,Motor Diesel Yanmar Hydro Magnum Boost 267HP,propulsão,31/10/2017,26605.05
+59,Motor Diesel Yanmar Hydro Magnum Boost 267HP,propulsão,20/03/2019,23004.44
+59,Motor Diesel Yanmar Hydro Magnum Boost 267HP,propulsão,14/06/2019,22461.45
+59,Motor Diesel Yanmar Hydro Magnum Boost 267HP,propulsão,26/07/2019,23099.55
+59,Motor Diesel Yanmar Hydro Magnum Boost 267HP,propulsão,10/08/2021,16694.98
+59,Motor Diesel Yanmar Hydro Magnum Boost 267HP,propulsão,08/09/2023,17493.05
+59,Motor Diesel Yanmar Hydro Magnum Boost 267HP,propulsão,14/09/2023,17882.07
+59,Motor Diesel Yanmar Hydro Magnum Boost 267HP,propulsão,08/03/2024,17522.59
+59,Motor Diesel Yanmar Hydro Magnum Boost 267HP,propulsão,04/09/2024,15467.88
+59,Motor Diesel Yanmar Hydro Magnum Boost 267HP,propulsão,16/10/2024,15361.57
+59,Motor Diesel Yanmar Hydro Magnum Boost 267HP,propulsão,07/01/2025,14351.88
+60,Motor de Popa Honda Velocity Drift 258HP,propulsão,01/02/2016,27202.05
+60,Motor de Popa Honda Velocity Drift 258HP,propulsão,20/07/2018,28780.03
+60,Motor de Popa Honda Velocity Drift 258HP,propulsão,22/08/2018,26697.87
+60,Motor de Popa Honda Velocity Drift 258HP,propulsão,21/09/2018,26705.73
+60,Motor de Popa Honda Velocity Drift 258HP,propulsão,01/02/2021,19917.05
+60,Motor de Popa Honda Velocity Drift 258HP,propulsão,24/03/2021,19657.13
+60,Motor de Popa Honda Velocity Drift 258HP,propulsão,15/04/2021,19341.09
+60,Motor de Popa Honda Velocity Drift 258HP,propulsão,09/08/2023,22190.02
+60,Motor de Popa Honda Velocity Drift 258HP,propulsão,22/12/2023,22370.78
+60,Motor de Popa Honda Velocity Drift 258HP,propulsão,27/08/2024,19786.24
+60,Motor de Popa Honda Velocity Drift 258HP,propulsão,29/04/2025,19261.28
+61,Motor Diesel Honda Prime 84HP,propulsão,06/12/2018,7152.72
+61,Motor Diesel Honda Prime 84HP,propulsão,13/02/2020,6458.44
+61,Motor Diesel Honda Prime 84HP,propulsão,04/11/2022,5564.33
+61,Motor Diesel Honda Prime 84HP,propulsão,23/01/2023,5396.92
+61,Motor Diesel Honda Prime 84HP,propulsão,26/08/2024,5102.18
+62,Motor Diesel Yanmar Velocity 37HP,propulsão,21/08/2018,25640.75
+62,Motor Diesel Yanmar Velocity 37HP,propulsão,24/12/2019,25058.7
+62,Motor Diesel Yanmar Velocity 37HP,propulsão,21/02/2022,20047.06
+62,Motor Diesel Yanmar Velocity 37HP,propulsão,04/07/2022,19275.53
+62,Motor Diesel Yanmar Velocity 37HP,propulsão,03/01/2023,19016.98
+62,Motor Diesel Yanmar Velocity 37HP,propulsão,16/01/2023,20000.78
+63,Motor Elétrico Torqeedo Ion Orca Vox 186HP,propulsão,16/02/2017,45881.74
+63,Motor Elétrico Torqeedo Ion Orca Vox 186HP,propulsão,30/05/2017,42862.12
+63,Motor Elétrico Torqeedo Ion Orca Vox 186HP,propulsão,21/03/2018,42520.94
+63,Motor Elétrico Torqeedo Ion Orca Vox 186HP,propulsão,15/07/2021,27445.91
+63,Motor Elétrico Torqeedo Ion Orca Vox 186HP,propulsão,29/07/2021,27618.14
+63,Motor Elétrico Torqeedo Ion Orca Vox 186HP,propulsão,15/05/2025,24849.56
+64,Motor Elétrico Yamaha Swift Drift Current 265HP,propulsão,15/12/2016,32966.4
+64,Motor Elétrico Yamaha Swift Drift Current 265HP,propulsão,13/01/2017,34815.02
+64,Motor Elétrico Yamaha Swift Drift Current 265HP,propulsão,19/01/2017,34729.36
+64,Motor Elétrico Yamaha Swift Drift Current 265HP,propulsão,17/12/2020,22034.06
+64,Motor Elétrico Yamaha Swift Drift Current 265HP,propulsão,09/08/2021,21131.28
+64,Motor Elétrico Yamaha Swift Drift Current 265HP,propulsão,14/07/2022,20436.49
+64,Motor Elétrico Yamaha Swift Drift Current 265HP,propulsão,06/09/2022,21352.22
+64,Motor Elétrico Yamaha Swift Drift Current 265HP,propulsão,26/02/2025,19307.99
+65,Motor de Popa Torqeedo Nautic Swift 223HP,propulsão,27/01/2016,6319.75
+65,Motor de Popa Torqeedo Nautic Swift 223HP,propulsão,07/12/2016,7541.59
+65,Motor de Popa Torqeedo Nautic Swift 223HP,propulsão,13/06/2022,5008.66
+65,Motor de Popa Torqeedo Nautic Swift 223HP,propulsão,11/08/2023,5225.24
+65,Motor de Popa Torqeedo Nautic Swift 223HP,propulsão,17/05/2024,4996.52
+65,Motor de Popa Torqeedo Nautic Swift 223HP,propulsão,13/01/2025,4184.78
+66,Motor de Popa Tohatsu Poseidon Helix Prime 135HP,propulsão,04/10/2018,3220.11
+66,Motor de Popa Tohatsu Poseidon Helix Prime 135HP,propulsão,05/01/2021,2360.29
+66,Motor de Popa Tohatsu Poseidon Helix Prime 135HP,propulsão,08/07/2024,2297.7
+66,Motor de Popa Tohatsu Poseidon Helix Prime 135HP,propulsão,14/02/2025,2194.88
+67,Motor de Popa Yamaha Mako 108HP,propulsão,12/05/2017,27422.66
+67,Motor de Popa Yamaha Mako 108HP,propulsão,10/08/2018,22302.57
+67,Motor de Popa Yamaha Mako 108HP,propulsão,26/02/2019,22822.91
+67,Motor de Popa Yamaha Mako 108HP,propulsão,15/10/2019,20681.03
+67,Motor de Popa Yamaha Mako 108HP,propulsão,17/06/2022,16720.73
+68,Motor de Popa Honda Ion Vox Prime 163HP,propulsão,02/05/2016,19121.65
+68,Motor de Popa Honda Ion Vox Prime 163HP,propulsão,04/12/2017,20583.72
+68,Motor de Popa Honda Ion Vox Prime 163HP,propulsão,20/02/2019,18034.48
+68,Motor de Popa Honda Ion Vox Prime 163HP,propulsão,13/05/2020,11335.42
+68,Motor de Popa Honda Ion Vox Prime 163HP,propulsão,27/10/2020,11843.55
+68,Motor de Popa Honda Ion Vox Prime 163HP,propulsão,18/03/2021,12060.49
+68,Motor de Popa Honda Ion Vox Prime 163HP,propulsão,24/08/2021,12619.48
+68,Motor de Popa Honda Ion Vox Prime 163HP,propulsão,10/09/2021,12827.33
+68,Motor de Popa Honda Ion Vox Prime 163HP,propulsão,30/12/2021,11988.94
+68,Motor de Popa Honda Ion Vox Prime 163HP,propulsão,18/04/2023,13467.77
+68,Motor de Popa Honda Ion Vox Prime 163HP,propulsão,26/04/2023,13226.26
+68,Motor de Popa Honda Ion Vox Prime 163HP,propulsão,21/06/2023,13998.43
+68,Motor de Popa Honda Ion Vox Prime 163HP,propulsão,04/04/2024,13317.89
+68,Motor de Popa Honda Ion Vox Prime 163HP,propulsão,20/10/2025,12442.5
+69,Motor de Popa Torqeedo Ultra Impulse 292HP,propulsão,16/08/2016,14259.84
+69,Motor de Popa Torqeedo Ultra Impulse 292HP,propulsão,01/08/2017,14529.44
+69,Motor de Popa Torqeedo Ultra Impulse 292HP,propulsão,13/11/2018,11979.31
+69,Motor de Popa Torqeedo Ultra Impulse 292HP,propulsão,11/03/2020,9686.09
+69,Motor de Popa Torqeedo Ultra Impulse 292HP,propulsão,03/04/2020,8542.02
+69,Motor de Popa Torqeedo Ultra Impulse 292HP,propulsão,15/05/2023,9219.51
+69,Motor de Popa Torqeedo Ultra Impulse 292HP,propulsão,18/04/2024,8620.92
+69,Motor de Popa Torqeedo Ultra Impulse 292HP,propulsão,11/10/2024,8046.11
+69,Motor de Popa Torqeedo Ultra Impulse 292HP,propulsão,15/07/2025,8145.73
+69,Motor de Popa Torqeedo Ultra Impulse 292HP,propulsão,13/08/2025,8394.54
+70,Motor Diesel Parsun Boost Helix Velocity 146HP,propulsão,11/10/2018,9172.7
+70,Motor Diesel Parsun Boost Helix Velocity 146HP,propulsão,18/12/2018,8811.12
+70,Motor Diesel Parsun Boost Helix Velocity 146HP,propulsão,26/08/2019,8306.24
+70,Motor Diesel Parsun Boost Helix Velocity 146HP,propulsão,20/01/2020,8214.48
+70,Motor Diesel Parsun Boost Helix Velocity 146HP,propulsão,07/04/2021,6150.49
+70,Motor Diesel Parsun Boost Helix Velocity 146HP,propulsão,25/01/2022,6250.42
+70,Motor Diesel Parsun Boost Helix Velocity 146HP,propulsão,08/06/2022,7053.78
+70,Motor Diesel Parsun Boost Helix Velocity 146HP,propulsão,09/11/2022,6655.06
+70,Motor Diesel Parsun Boost Helix Velocity 146HP,propulsão,29/07/2024,6083.51
+70,Motor Diesel Parsun Boost Helix Velocity 146HP,propulsão,06/11/2024,5960.14
+70,Motor Diesel Parsun Boost Helix Velocity 146HP,propulsão,31/12/2024,5548.63
+70,Motor Diesel Parsun Boost Helix Velocity 146HP,propulsão,29/12/2025,6164.29
+71,Motor Elétrico Torqeedo Pulse 300HP,propulsão,24/01/2018,40725.21
+71,Motor Elétrico Torqeedo Pulse 300HP,propulsão,06/01/2020,32103.69
+71,Motor Elétrico Torqeedo Pulse 300HP,propulsão,05/03/2020,28175.59
+71,Motor Elétrico Torqeedo Pulse 300HP,propulsão,04/09/2020,24634.58
+71,Motor Elétrico Torqeedo Pulse 300HP,propulsão,04/07/2022,24546.32
+71,Motor Elétrico Torqeedo Pulse 300HP,propulsão,15/08/2022,25564.93
+71,Motor Elétrico Torqeedo Pulse 300HP,propulsão,29/11/2022,24528.75
+71,Motor Elétrico Torqeedo Pulse 300HP,propulsão,04/04/2023,25647.03
+71,Motor Elétrico Torqeedo Pulse 300HP,propulsão,30/06/2023,27014.91
+71,Motor Elétrico Torqeedo Pulse 300HP,propulsão,26/07/2023,27484.92
+71,Motor Elétrico Torqeedo Pulse 300HP,propulsão,29/08/2024,23100.17
+72,Motor de Popa Volvo Hydro Dash 256HP,propulsão,19/05/2017,30319.01
+72,Motor de Popa Volvo Hydro Dash 256HP,propulsão,09/03/2018,30675.48
+72,Motor de Popa Volvo Hydro Dash 256HP,propulsão,11/03/2025,17083.12
+73,Motor de Popa Torqeedo Core Hydra Flux 162HP,propulsão,02/12/2016,41323.15
+73,Motor de Popa Torqeedo Core Hydra Flux 162HP,propulsão,10/08/2017,45394.28
+73,Motor de Popa Torqeedo Core Hydra Flux 162HP,propulsão,12/01/2018,44470.65
+73,Motor de Popa Torqeedo Core Hydra Flux 162HP,propulsão,12/06/2018,38652.18
+73,Motor de Popa Torqeedo Core Hydra Flux 162HP,propulsão,29/10/2018,39370.75
+73,Motor de Popa Torqeedo Core Hydra Flux 162HP,propulsão,11/12/2018,36701.09
+73,Motor de Popa Torqeedo Core Hydra Flux 162HP,propulsão,11/06/2019,37032.42
+73,Motor de Popa Torqeedo Core Hydra Flux 162HP,propulsão,12/04/2021,25304.0
+73,Motor de Popa Torqeedo Core Hydra Flux 162HP,propulsão,12/07/2021,27407.95
+73,Motor de Popa Torqeedo Core Hydra Flux 162HP,propulsão,20/01/2023,27541.35
+73,Motor de Popa Torqeedo Core Hydra Flux 162HP,propulsão,22/03/2024,28694.54
+73,Motor de Popa Torqeedo Core Hydra Flux 162HP,propulsão,21/08/2024,26171.36
+73,Motor de Popa Torqeedo Core Hydra Flux 162HP,propulsão,10/10/2024,25649.93
+73,Motor de Popa Torqeedo Core Hydra Flux 162HP,propulsão,17/12/2025,25987.97
+74,Motor de Popa Honda Torque 228HP,propulsão,15/08/2016,27334.86
+74,Motor de Popa Honda Torque 228HP,propulsão,19/12/2018,22250.99
+74,Motor de Popa Honda Torque 228HP,propulsão,05/04/2023,17160.36
+74,Motor de Popa Honda Torque 228HP,propulsão,24/01/2025,14691.11
+74,Motor de Popa Honda Torque 228HP,propulsão,26/06/2025,15698.25
+75,Motor Diesel Volvo Flow Leviathan Maré 187HP,propulsão,23/05/2016,9190.66
+75,Motor Diesel Volvo Flow Leviathan Maré 187HP,propulsão,31/07/2020,6298.34
+75,Motor Diesel Volvo Flow Leviathan Maré 187HP,propulsão,07/02/2022,6193.58
+75,Motor Diesel Volvo Flow Leviathan Maré 187HP,propulsão,28/08/2024,5924.6
+76,Motor Diesel Honda Aero 205HP,propulsão,18/02/2016,36971.92
+76,Motor Diesel Honda Aero 205HP,propulsão,21/06/2016,43727.9
+76,Motor Diesel Honda Aero 205HP,propulsão,26/10/2016,47479.65
+76,Motor Diesel Honda Aero 205HP,propulsão,21/12/2016,44516.0
+76,Motor Diesel Honda Aero 205HP,propulsão,16/02/2017,48583.21
+76,Motor Diesel Honda Aero 205HP,propulsão,19/11/2018,39470.06
+76,Motor Diesel Honda Aero 205HP,propulsão,12/09/2019,36603.0
+76,Motor Diesel Honda Aero 205HP,propulsão,08/01/2020,36442.79
+76,Motor Diesel Honda Aero 205HP,propulsão,16/12/2020,29029.45
+76,Motor Diesel Honda Aero 205HP,propulsão,04/07/2022,27945.06
+76,Motor Diesel Honda Aero 205HP,propulsão,15/04/2024,28642.87
+76,Motor Diesel Honda Aero 205HP,propulsão,24/07/2024,26304.27
+76,Motor Diesel Honda Aero 205HP,propulsão,23/08/2024,26819.81
+76,Motor Diesel Honda Aero 205HP,propulsão,13/11/2025,28060.41
+77,Motor Diesel Tohatsu Vector 197HP,propulsão,07/06/2016,12868.73
+77,Motor Diesel Tohatsu Vector 197HP,propulsão,22/11/2016,13356.64
+77,Motor Diesel Tohatsu Vector 197HP,propulsão,09/01/2017,13930.59
+77,Motor Diesel Tohatsu Vector 197HP,propulsão,25/07/2017,14169.47
+77,Motor Diesel Tohatsu Vector 197HP,propulsão,23/10/2017,13971.52
+77,Motor Diesel Tohatsu Vector 197HP,propulsão,22/10/2020,8009.58
+77,Motor Diesel Tohatsu Vector 197HP,propulsão,29/07/2022,8617.27
+77,Motor Diesel Tohatsu Vector 197HP,propulsão,02/02/2023,8959.75
+77,Motor Diesel Tohatsu Vector 197HP,propulsão,16/12/2024,7388.71
+77,Motor Diesel Tohatsu Vector 197HP,propulsão,30/12/2024,7220.1
+77,Motor Diesel Tohatsu Vector 197HP,propulsão,01/04/2025,7836.74
+77,Motor Diesel Tohatsu Vector 197HP,propulsão,23/07/2025,8050.4
+78,Motor Elétrico Honda Mako Axis 131HP,propulsão,22/12/2016,36569.43
+78,Motor Elétrico Honda Mako Axis 131HP,propulsão,06/07/2022,22417.67
+78,Motor Elétrico Honda Mako Axis 131HP,propulsão,14/10/2022,23053.04
+78,Motor Elétrico Honda Mako Axis 131HP,propulsão,18/07/2023,25349.04
+78,Motor Elétrico Honda Mako Axis 131HP,propulsão,27/03/2024,24425.59
+79,Motor Diesel Tohatsu Zenith 60HP,propulsão,12/02/2016,16584.81
+79,Motor Diesel Tohatsu Zenith 60HP,propulsão,05/11/2018,17857.26
+79,Motor Diesel Tohatsu Zenith 60HP,propulsão,03/10/2019,16131.02
+79,Motor Diesel Tohatsu Zenith 60HP,propulsão,23/12/2020,12785.95
+79,Motor Diesel Tohatsu Zenith 60HP,propulsão,21/10/2021,11724.63
+79,Motor Diesel Tohatsu Zenith 60HP,propulsão,27/02/2024,13344.4
+79,Motor Diesel Tohatsu Zenith 60HP,propulsão,18/07/2024,11935.56
+79,Motor Diesel Tohatsu Zenith 60HP,propulsão,13/09/2024,11873.21
+79,Motor Diesel Tohatsu Zenith 60HP,propulsão,27/11/2024,11348.86
+79,Motor Diesel Tohatsu Zenith 60HP,propulsão,15/01/2025,10956.73
+79,Motor Diesel Tohatsu Zenith 60HP,propulsão,27/01/2025,11161.01
+79,Motor Diesel Tohatsu Zenith 60HP,propulsão,24/11/2025,12262.59
+80,Motor de Popa Volvo Maré 69HP,propulsão,26/09/2019,31166.06
+80,Motor de Popa Volvo Maré 69HP,propulsão,14/07/2021,25400.76
+80,Motor de Popa Volvo Maré 69HP,propulsão,16/07/2021,25370.34
+80,Motor de Popa Volvo Maré 69HP,propulsão,22/06/2022,25090.55
+80,Motor de Popa Volvo Maré 69HP,propulsão,28/10/2022,24177.04
+80,Motor de Popa Volvo Maré 69HP,propulsão,07/11/2025,24126.48
+81,Motor Elétrico Torqeedo Barracuda Magnum Helix 101HP,propulsão,16/05/2016,34870.68
+81,Motor Elétrico Torqeedo Barracuda Magnum Helix 101HP,propulsão,28/06/2016,36724.24
+81,Motor Elétrico Torqeedo Barracuda Magnum Helix 101HP,propulsão,22/07/2016,37185.97
+81,Motor Elétrico Torqeedo Barracuda Magnum Helix 101HP,propulsão,17/08/2016,37884.9
+81,Motor Elétrico Torqeedo Barracuda Magnum Helix 101HP,propulsão,27/09/2016,37756.09
+81,Motor Elétrico Torqeedo Barracuda Magnum Helix 101HP,propulsão,03/10/2016,37779.44
+81,Motor Elétrico Torqeedo Barracuda Magnum Helix 101HP,propulsão,16/06/2017,37143.01
+81,Motor Elétrico Torqeedo Barracuda Magnum Helix 101HP,propulsão,24/06/2021,24791.15
+81,Motor Elétrico Torqeedo Barracuda Magnum Helix 101HP,propulsão,02/08/2022,23345.09
+81,Motor Elétrico Torqeedo Barracuda Magnum Helix 101HP,propulsão,09/05/2024,23685.5
+81,Motor Elétrico Torqeedo Barracuda Magnum Helix 101HP,propulsão,14/05/2025,21775.68
+82,Motor Elétrico Volvo Nautic Vox 118HP,propulsão,12/06/2017,15656.17
+82,Motor Elétrico Volvo Nautic Vox 118HP,propulsão,20/11/2017,15834.78
+82,Motor Elétrico Volvo Nautic Vox 118HP,propulsão,11/09/2020,9770.29
+82,Motor Elétrico Volvo Nautic Vox 118HP,propulsão,07/11/2025,9640.23
+83,Motor Diesel Yanmar Dash Nitro 184HP,propulsão,31/10/2018,36265.87
+83,Motor Diesel Yanmar Dash Nitro 184HP,propulsão,25/01/2019,35839.7
+83,Motor Diesel Yanmar Dash Nitro 184HP,propulsão,19/11/2025,25272.57
+84,Motor de Popa Torqeedo Zenith Peak Thrust 212HP,propulsão,07/03/2016,11515.83
+84,Motor de Popa Torqeedo Zenith Peak Thrust 212HP,propulsão,13/08/2019,10929.75
+84,Motor de Popa Torqeedo Zenith Peak Thrust 212HP,propulsão,04/02/2020,10247.52
+84,Motor de Popa Torqeedo Zenith Peak Thrust 212HP,propulsão,12/02/2020,10014.73
+84,Motor de Popa Torqeedo Zenith Peak Thrust 212HP,propulsão,28/04/2021,8041.61
+84,Motor de Popa Torqeedo Zenith Peak Thrust 212HP,propulsão,11/04/2023,8663.64
+84,Motor de Popa Torqeedo Zenith Peak Thrust 212HP,propulsão,10/08/2023,8951.16
+84,Motor de Popa Torqeedo Zenith Peak Thrust 212HP,propulsão,14/05/2024,8456.45
+85,Motor de Popa Parsun Impulse 162HP,propulsão,28/07/2016,11785.51
+85,Motor de Popa Parsun Impulse 162HP,propulsão,23/12/2022,7499.89
+85,Motor de Popa Parsun Impulse 162HP,propulsão,23/11/2023,7885.27
+85,Motor de Popa Parsun Impulse 162HP,propulsão,07/01/2025,6351.97
+86,Motor Diesel Volvo Helix Evo Force 144HP,propulsão,25/04/2018,26694.96
+86,Motor Diesel Volvo Helix Evo Force 144HP,propulsão,18/02/2019,25066.5
+86,Motor Diesel Volvo Helix Evo Force 144HP,propulsão,08/03/2019,24183.68
+86,Motor Diesel Volvo Helix Evo Force 144HP,propulsão,05/09/2019,22892.6
+86,Motor Diesel Volvo Helix Evo Force 144HP,propulsão,08/10/2019,22887.56
+86,Motor Diesel Volvo Helix Evo Force 144HP,propulsão,26/03/2020,18703.13
+86,Motor Diesel Volvo Helix Evo Force 144HP,propulsão,13/08/2021,17824.79
+86,Motor Diesel Volvo Helix Evo Force 144HP,propulsão,04/12/2024,15439.23
+86,Motor Diesel Volvo Helix Evo Force 144HP,propulsão,30/05/2025,16384.28
+86,Motor Diesel Volvo Helix Evo Force 144HP,propulsão,23/07/2025,16841.61
+87,Motor Elétrico Volvo Boost 225HP,propulsão,23/09/2016,20740.76
+87,Motor Elétrico Volvo Boost 225HP,propulsão,04/10/2017,21354.85
+87,Motor Elétrico Volvo Boost 225HP,propulsão,13/10/2017,21180.31
+87,Motor Elétrico Volvo Boost 225HP,propulsão,24/06/2019,17489.77
+87,Motor Elétrico Volvo Boost 225HP,propulsão,27/06/2019,17305.08
+87,Motor Elétrico Volvo Boost 225HP,propulsão,30/10/2020,11585.09
+87,Motor Elétrico Volvo Boost 225HP,propulsão,13/10/2021,12054.65
+87,Motor Elétrico Volvo Boost 225HP,propulsão,01/11/2021,11794.37
+87,Motor Elétrico Volvo Boost 225HP,propulsão,04/09/2023,13597.7
+88,Motor Diesel Tohatsu Kinetic Poseidon 113HP,propulsão,05/07/2018,12335.14
+88,Motor Diesel Tohatsu Kinetic Poseidon 113HP,propulsão,15/03/2019,12607.98
+88,Motor Diesel Tohatsu Kinetic Poseidon 113HP,propulsão,03/04/2019,12577.8
+88,Motor Diesel Tohatsu Kinetic Poseidon 113HP,propulsão,12/12/2019,11764.71
+88,Motor Diesel Tohatsu Kinetic Poseidon 113HP,propulsão,22/07/2021,9300.49
+88,Motor Diesel Tohatsu Kinetic Poseidon 113HP,propulsão,25/04/2022,9902.58
+88,Motor Diesel Tohatsu Kinetic Poseidon 113HP,propulsão,22/07/2022,8866.48
+88,Motor Diesel Tohatsu Kinetic Poseidon 113HP,propulsão,07/02/2023,9351.41
+88,Motor Diesel Tohatsu Kinetic Poseidon 113HP,propulsão,28/06/2023,9954.59
+88,Motor Diesel Tohatsu Kinetic Poseidon 113HP,propulsão,08/01/2024,9896.1
+89,Motor Elétrico Yamaha Orca Storm Zenith 11HP,propulsão,27/06/2019,20363.92
+89,Motor Elétrico Yamaha Orca Storm Zenith 11HP,propulsão,25/01/2021,14285.88
+89,Motor Elétrico Yamaha Orca Storm Zenith 11HP,propulsão,30/07/2021,15363.81
+89,Motor Elétrico Yamaha Orca Storm Zenith 11HP,propulsão,05/08/2021,15289.46
+89,Motor Elétrico Yamaha Orca Storm Zenith 11HP,propulsão,22/08/2022,15217.31
+89,Motor Elétrico Yamaha Orca Storm Zenith 11HP,propulsão,11/11/2022,14832.32
+89,Motor Elétrico Yamaha Orca Storm Zenith 11HP,propulsão,13/09/2024,14122.53
+90,Motor de Popa Yamaha Thrust Marlin Nexus 182HP,propulsão,25/01/2017,24968.38
+90,Motor de Popa Yamaha Thrust Marlin Nexus 182HP,propulsão,04/08/2017,25337.09
+90,Motor de Popa Yamaha Thrust Marlin Nexus 182HP,propulsão,19/10/2017,24930.6
+90,Motor de Popa Yamaha Thrust Marlin Nexus 182HP,propulsão,07/08/2019,19851.75
+90,Motor de Popa Yamaha Thrust Marlin Nexus 182HP,propulsão,26/08/2021,15088.29
+90,Motor de Popa Yamaha Thrust Marlin Nexus 182HP,propulsão,01/12/2021,14083.78
+90,Motor de Popa Yamaha Thrust Marlin Nexus 182HP,propulsão,08/12/2023,16092.39
+90,Motor de Popa Yamaha Thrust Marlin Nexus 182HP,propulsão,24/01/2024,16081.27
+90,Motor de Popa Yamaha Thrust Marlin Nexus 182HP,propulsão,25/06/2024,14571.29
+90,Motor de Popa Yamaha Thrust Marlin Nexus 182HP,propulsão,20/02/2025,13873.56
+90,Motor de Popa Yamaha Thrust Marlin Nexus 182HP,propulsão,31/07/2025,14120.74
+90,Motor de Popa Yamaha Thrust Marlin Nexus 182HP,propulsão,02/09/2025,14467.08
+91,Motor Elétrico Tohatsu Zenith Oceanic 113HP,propulsão,02/12/2016,38934.89
+91,Motor Elétrico Tohatsu Zenith Oceanic 113HP,propulsão,24/07/2019,35883.48
+91,Motor Elétrico Tohatsu Zenith Oceanic 113HP,propulsão,16/03/2022,26303.31
+91,Motor Elétrico Tohatsu Zenith Oceanic 113HP,propulsão,14/09/2023,27671.77
+92,Motor Elétrico Yamaha Nautic Kraken 133HP,propulsão,04/03/2016,23897.07
+92,Motor Elétrico Yamaha Nautic Kraken 133HP,propulsão,16/05/2017,28738.63
+92,Motor Elétrico Yamaha Nautic Kraken 133HP,propulsão,18/12/2017,27027.86
+92,Motor Elétrico Yamaha Nautic Kraken 133HP,propulsão,16/03/2018,27008.15
+92,Motor Elétrico Yamaha Nautic Kraken 133HP,propulsão,03/07/2018,22833.45
+92,Motor Elétrico Yamaha Nautic Kraken 133HP,propulsão,03/04/2019,23121.03
+92,Motor Elétrico Yamaha Nautic Kraken 133HP,propulsão,04/04/2019,22955.56
+92,Motor Elétrico Yamaha Nautic Kraken 133HP,propulsão,15/05/2019,22199.65
+92,Motor Elétrico Yamaha Nautic Kraken 133HP,propulsão,10/06/2019,22909.99
+92,Motor Elétrico Yamaha Nautic Kraken 133HP,propulsão,14/06/2019,22896.41
+92,Motor Elétrico Yamaha Nautic Kraken 133HP,propulsão,08/03/2021,15496.82
+92,Motor Elétrico Yamaha Nautic Kraken 133HP,propulsão,22/03/2022,18059.04
+92,Motor Elétrico Yamaha Nautic Kraken 133HP,propulsão,12/12/2022,16745.97
+92,Motor Elétrico Yamaha Nautic Kraken 133HP,propulsão,28/06/2024,15985.84
+92,Motor Elétrico Yamaha Nautic Kraken 133HP,propulsão,08/07/2024,16239.74
+93,Motor Elétrico Yamaha Flow 204HP,propulsão,14/12/2017,30149.74
+93,Motor Elétrico Yamaha Flow 204HP,propulsão,08/04/2019,25995.29
+93,Motor Elétrico Yamaha Flow 204HP,propulsão,20/07/2021,19153.44
+93,Motor Elétrico Yamaha Flow 204HP,propulsão,27/10/2021,18051.6
+93,Motor Elétrico Yamaha Flow 204HP,propulsão,16/11/2021,18346.6
+93,Motor Elétrico Yamaha Flow 204HP,propulsão,18/08/2022,19409.47
+93,Motor Elétrico Yamaha Flow 204HP,propulsão,04/06/2024,19072.72
+93,Motor Elétrico Yamaha Flow 204HP,propulsão,18/11/2024,17444.83
+93,Motor Elétrico Yamaha Flow 204HP,propulsão,08/07/2025,18414.19
+94,Motor de Popa Volvo Magnum 276HP,propulsão,16/05/2017,13180.3
+94,Motor de Popa Volvo Magnum 276HP,propulsão,30/01/2019,10970.75
+94,Motor de Popa Volvo Magnum 276HP,propulsão,09/09/2021,7715.19
+94,Motor de Popa Volvo Magnum 276HP,propulsão,07/01/2022,7181.14
+94,Motor de Popa Volvo Magnum 276HP,propulsão,31/03/2023,8022.13
+94,Motor de Popa Volvo Magnum 276HP,propulsão,23/06/2025,7381.46
+95,Motor Diesel Honda Leviathan 133HP,propulsão,27/06/2016,20575.35
+95,Motor Diesel Honda Leviathan 133HP,propulsão,02/09/2016,21529.08
+95,Motor Diesel Honda Leviathan 133HP,propulsão,14/11/2017,21264.79
+95,Motor Diesel Honda Leviathan 133HP,propulsão,24/04/2018,20140.23
+95,Motor Diesel Honda Leviathan 133HP,propulsão,24/10/2018,18839.54
+95,Motor Diesel Honda Leviathan 133HP,propulsão,26/10/2018,18997.45
+95,Motor Diesel Honda Leviathan 133HP,propulsão,22/11/2019,16690.11
+95,Motor Diesel Honda Leviathan 133HP,propulsão,05/07/2021,13757.18
+95,Motor Diesel Honda Leviathan 133HP,propulsão,23/11/2022,12945.63
+95,Motor Diesel Honda Leviathan 133HP,propulsão,10/07/2025,12594.59
+96,Motor de Popa Tohatsu Boost Swift 126HP,propulsão,08/02/2018,21605.84
+96,Motor de Popa Tohatsu Boost Swift 126HP,propulsão,12/07/2019,18859.38
+96,Motor de Popa Tohatsu Boost Swift 126HP,propulsão,30/03/2020,13689.39
+96,Motor de Popa Tohatsu Boost Swift 126HP,propulsão,13/10/2021,12732.73
+96,Motor de Popa Tohatsu Boost Swift 126HP,propulsão,11/04/2022,15019.64
+96,Motor de Popa Tohatsu Boost Swift 126HP,propulsão,30/09/2022,13063.42
+96,Motor de Popa Tohatsu Boost Swift 126HP,propulsão,02/06/2023,14251.86
+96,Motor de Popa Tohatsu Boost Swift 126HP,propulsão,23/06/2023,14776.4
+97,Motor de Popa Tohatsu Evo 168HP,propulsão,08/03/2018,41626.19
+97,Motor de Popa Tohatsu Evo 168HP,propulsão,14/05/2019,34019.17
+97,Motor de Popa Tohatsu Evo 168HP,propulsão,21/11/2019,32218.03
+97,Motor de Popa Tohatsu Evo 168HP,propulsão,15/10/2020,24095.55
+97,Motor de Popa Tohatsu Evo 168HP,propulsão,27/04/2021,24869.54
+97,Motor de Popa Tohatsu Evo 168HP,propulsão,27/07/2021,26195.74
+97,Motor de Popa Tohatsu Evo 168HP,propulsão,02/12/2021,24021.56
+97,Motor de Popa Tohatsu Evo 168HP,propulsão,06/01/2023,25607.88
+98,Motor Diesel Parsun Velocity Abyss Orca 235HP,propulsão,24/05/2017,24326.74
+98,Motor Diesel Parsun Velocity Abyss Orca 235HP,propulsão,14/08/2017,24892.14
+98,Motor Diesel Parsun Velocity Abyss Orca 235HP,propulsão,06/09/2018,19144.38
+98,Motor Diesel Parsun Velocity Abyss Orca 235HP,propulsão,02/10/2019,19104.75
+98,Motor Diesel Parsun Velocity Abyss Orca 235HP,propulsão,02/08/2022,15167.54
+98,Motor Diesel Parsun Velocity Abyss Orca 235HP,propulsão,03/10/2022,15262.93
+98,Motor Diesel Parsun Velocity Abyss Orca 235HP,propulsão,29/09/2023,15850.04
+98,Motor Diesel Parsun Velocity Abyss Orca 235HP,propulsão,17/12/2024,12866.8
+99,Motor Elétrico Honda Flux Ultra 273HP,propulsão,05/04/2016,29327.86
+99,Motor Elétrico Honda Flux Ultra 273HP,propulsão,04/08/2016,33336.44
+99,Motor Elétrico Honda Flux Ultra 273HP,propulsão,17/03/2017,34525.3
+99,Motor Elétrico Honda Flux Ultra 273HP,propulsão,12/05/2017,34288.03
+99,Motor Elétrico Honda Flux Ultra 273HP,propulsão,16/10/2017,33944.07
+99,Motor Elétrico Honda Flux Ultra 273HP,propulsão,27/10/2017,32708.24
+99,Motor Elétrico Honda Flux Ultra 273HP,propulsão,13/02/2020,24725.51
+99,Motor Elétrico Honda Flux Ultra 273HP,propulsão,06/08/2020,20077.99
+99,Motor Elétrico Honda Flux Ultra 273HP,propulsão,25/11/2020,20049.09
+99,Motor Elétrico Honda Flux Ultra 273HP,propulsão,02/07/2021,21330.89
+99,Motor Elétrico Honda Flux Ultra 273HP,propulsão,06/08/2024,18977.86
+99,Motor Elétrico Honda Flux Ultra 273HP,propulsão,20/01/2025,17732.37
+100,Motor Elétrico Honda Vector Abyss 220HP,propulsão,14/07/2017,32797.24
+100,Motor Elétrico Honda Vector Abyss 220HP,propulsão,01/08/2017,33575.22
+100,Motor Elétrico Honda Vector Abyss 220HP,propulsão,08/01/2018,32332.92
+100,Motor Elétrico Honda Vector Abyss 220HP,propulsão,12/04/2018,30899.28
+100,Motor Elétrico Honda Vector Abyss 220HP,propulsão,25/03/2020,20631.21
+100,Motor Elétrico Honda Vector Abyss 220HP,propulsão,13/05/2021,19807.28
+100,Motor Elétrico Honda Vector Abyss 220HP,propulsão,18/11/2025,19604.58
+101,Cabo de Nylon Delta Vortex,ancoragem,16/06/2016,132.79
+101,Cabo de Nylon Delta Vortex,ancoragem,17/11/2016,136.11
+101,Cabo de Nylon Delta Vortex,ancoragem,25/08/2017,147.32
+101,Cabo de Nylon Delta Vortex,ancoragem,04/05/2018,131.27
+101,Cabo de Nylon Delta Vortex,ancoragem,02/08/2018,123.12
+101,Cabo de Nylon Delta Vortex,ancoragem,23/12/2019,113.72
+101,Cabo de Nylon Delta Vortex,ancoragem,19/05/2020,81.0
+101,Cabo de Nylon Delta Vortex,ancoragem,04/09/2020,87.7
+101,Cabo de Nylon Delta Vortex,ancoragem,14/10/2021,84.28
+101,Cabo de Nylon Delta Vortex,ancoragem,18/10/2022,87.95
+101,Cabo de Nylon Delta Vortex,ancoragem,14/07/2023,96.64
+101,Cabo de Nylon Delta Vortex,ancoragem,04/06/2024,87.96
+101,Cabo de Nylon Delta Vortex,ancoragem,03/07/2024,82.96
+101,Cabo de Nylon Delta Vortex,ancoragem,24/12/2024,75.32
+101,Cabo de Nylon Delta Vortex,ancoragem,06/06/2025,82.84
+102,Cabo de Nylon Bruce Nexus,ancoragem,13/10/2017,263.57
+102,Cabo de Nylon Bruce Nexus,ancoragem,15/01/2020,199.93
+102,Cabo de Nylon Bruce Nexus,ancoragem,26/02/2025,144.07
+103,Âncora Delta Swift,ancoragem,07/02/2020,415.41
+103,Âncora Delta Swift,ancoragem,21/09/2020,328.69
+103,Âncora Delta Swift,ancoragem,05/01/2021,335.92
+103,Âncora Delta Swift,ancoragem,18/10/2021,324.2
+103,Âncora Delta Swift,ancoragem,19/09/2022,341.7
+103,Âncora Delta Swift,ancoragem,05/07/2024,325.52
+103,Âncora Delta Swift,ancoragem,25/09/2024,326.91
+103,Âncora Delta Swift,ancoragem,04/08/2025,324.68
+104,Cabo de Nylon Delta Zen Vortex Storm,ancoragem,06/04/2016,1010.54
+104,Cabo de Nylon Delta Zen Vortex Storm,ancoragem,31/05/2017,1144.9
+104,Cabo de Nylon Delta Zen Vortex Storm,ancoragem,21/12/2018,960.31
+104,Cabo de Nylon Delta Zen Vortex Storm,ancoragem,15/05/2019,927.68
+104,Cabo de Nylon Delta Zen Vortex Storm,ancoragem,26/03/2020,742.54
+105,Cabo de Nylon Danforth Prime,ancoragem,21/01/2016,74.49
+105,Cabo de Nylon Danforth Prime,ancoragem,10/03/2016,84.36
+105,Cabo de Nylon Danforth Prime,ancoragem,27/05/2016,85.6
+105,Cabo de Nylon Danforth Prime,ancoragem,19/07/2016,94.39
+105,Cabo de Nylon Danforth Prime,ancoragem,09/12/2020,60.57
+105,Cabo de Nylon Danforth Prime,ancoragem,16/08/2021,58.97
+105,Cabo de Nylon Danforth Prime,ancoragem,22/10/2021,54.2
+105,Cabo de Nylon Danforth Prime,ancoragem,24/06/2022,59.15
+105,Cabo de Nylon Danforth Prime,ancoragem,03/04/2023,61.14
+105,Cabo de Nylon Danforth Prime,ancoragem,17/04/2023,62.64
+105,Cabo de Nylon Danforth Prime,ancoragem,03/06/2024,59.11
+105,Cabo de Nylon Danforth Prime,ancoragem,13/06/2024,57.36
+105,Cabo de Nylon Danforth Prime,ancoragem,12/11/2024,53.66
+105,Cabo de Nylon Danforth Prime,ancoragem,25/11/2024,53.37
+106,Âncora Danforth Nitro Titan Vox,ancoragem,18/04/2017,1416.67
+106,Âncora Danforth Nitro Titan Vox,ancoragem,13/08/2019,1103.67
+106,Âncora Danforth Nitro Titan Vox,ancoragem,20/11/2019,1043.35
+106,Âncora Danforth Nitro Titan Vox,ancoragem,28/12/2020,837.06
+106,Âncora Danforth Nitro Titan Vox,ancoragem,01/08/2023,918.37
+106,Âncora Danforth Nitro Titan Vox,ancoragem,17/09/2025,827.26
+106,Âncora Danforth Nitro Titan Vox,ancoragem,29/10/2025,820.98
+107,Boia de Arqueamento Bruce Tidal Marlin,ancoragem,04/03/2016,407.02
+107,Boia de Arqueamento Bruce Tidal Marlin,ancoragem,31/07/2017,483.49
+107,Boia de Arqueamento Bruce Tidal Marlin,ancoragem,26/03/2018,458.21
+107,Boia de Arqueamento Bruce Tidal Marlin,ancoragem,15/06/2018,401.09
+107,Boia de Arqueamento Bruce Tidal Marlin,ancoragem,11/05/2020,261.16
+107,Boia de Arqueamento Bruce Tidal Marlin,ancoragem,21/02/2022,296.79
+107,Boia de Arqueamento Bruce Tidal Marlin,ancoragem,02/06/2022,316.12
+107,Boia de Arqueamento Bruce Tidal Marlin,ancoragem,09/08/2022,295.48
+107,Boia de Arqueamento Bruce Tidal Marlin,ancoragem,16/11/2023,311.59
+108,Boia de Arqueamento Bruce Titan,ancoragem,03/04/2019,870.56
+108,Boia de Arqueamento Bruce Titan,ancoragem,04/06/2019,864.4
+108,Boia de Arqueamento Bruce Titan,ancoragem,31/07/2019,888.76
+108,Boia de Arqueamento Bruce Titan,ancoragem,26/02/2020,754.3
+108,Boia de Arqueamento Bruce Titan,ancoragem,10/06/2020,684.33
+108,Boia de Arqueamento Bruce Titan,ancoragem,14/06/2022,653.47
+108,Boia de Arqueamento Bruce Titan,ancoragem,16/11/2023,688.83
+109,Cabo de Nylon Danforth Evo Aqua Mako,ancoragem,12/01/2017,196.71
+109,Cabo de Nylon Danforth Evo Aqua Mako,ancoragem,16/05/2018,169.23
+109,Cabo de Nylon Danforth Evo Aqua Mako,ancoragem,01/04/2024,123.24
+109,Cabo de Nylon Danforth Evo Aqua Mako,ancoragem,23/04/2025,109.49
+110,Corrente Bruce Current,ancoragem,17/08/2020,457.97
+110,Corrente Bruce Current,ancoragem,26/08/2021,476.03
+110,Corrente Bruce Current,ancoragem,02/09/2024,443.85
+111,Boia de Arqueamento Danforth Aero Dash,ancoragem,13/06/2017,1290.65
+111,Boia de Arqueamento Danforth Aero Dash,ancoragem,28/07/2022,821.82
+111,Boia de Arqueamento Danforth Aero Dash,ancoragem,12/03/2024,860.37
+112,Corrente Danforth Tidal,ancoragem,24/08/2018,533.92
+112,Corrente Danforth Tidal,ancoragem,15/05/2019,544.9
+112,Corrente Danforth Tidal,ancoragem,16/11/2021,398.23
+112,Corrente Danforth Tidal,ancoragem,29/09/2023,435.58
+112,Corrente Danforth Tidal,ancoragem,03/04/2024,430.01
+112,Corrente Danforth Tidal,ancoragem,10/06/2024,406.44
+112,Corrente Danforth Tidal,ancoragem,28/05/2025,383.09
+112,Corrente Danforth Tidal,ancoragem,19/08/2025,398.64
+112,Corrente Danforth Tidal,ancoragem,24/11/2025,404.31
+113,Âncora Delta Mako Ultra,ancoragem,12/01/2017,1388.39
+113,Âncora Delta Mako Ultra,ancoragem,18/01/2017,1364.68
+113,Âncora Delta Mako Ultra,ancoragem,03/11/2017,1335.29
+113,Âncora Delta Mako Ultra,ancoragem,28/06/2018,1141.1
+113,Âncora Delta Mako Ultra,ancoragem,29/06/2018,1140.01
+113,Âncora Delta Mako Ultra,ancoragem,18/09/2019,1072.83
+113,Âncora Delta Mako Ultra,ancoragem,16/10/2019,1053.75
+113,Âncora Delta Mako Ultra,ancoragem,31/12/2020,845.82
+113,Âncora Delta Mako Ultra,ancoragem,05/02/2021,815.72
+113,Âncora Delta Mako Ultra,ancoragem,03/03/2022,870.75
+113,Âncora Delta Mako Ultra,ancoragem,05/07/2022,815.5
+113,Âncora Delta Mako Ultra,ancoragem,06/08/2024,777.57
+113,Âncora Delta Mako Ultra,ancoragem,17/04/2025,750.6
+114,Boia de Arqueamento Danforth Tidal Zen Swift,ancoragem,22/11/2016,238.81
+114,Boia de Arqueamento Danforth Tidal Zen Swift,ancoragem,13/08/2020,148.58
+114,Boia de Arqueamento Danforth Tidal Zen Swift,ancoragem,13/01/2022,144.69
+114,Boia de Arqueamento Danforth Tidal Zen Swift,ancoragem,16/02/2023,152.46
+115,Cabo de Nylon Delta Force Magnum Leviathan,ancoragem,22/08/2016,258.29
+115,Cabo de Nylon Delta Force Magnum Leviathan,ancoragem,05/01/2018,256.33
+115,Cabo de Nylon Delta Force Magnum Leviathan,ancoragem,11/09/2020,157.17
+115,Cabo de Nylon Delta Force Magnum Leviathan,ancoragem,24/01/2023,160.69
+115,Cabo de Nylon Delta Force Magnum Leviathan,ancoragem,12/12/2023,167.9
+116,Cabo de Nylon Delta Velocity Oceanic Abyss,ancoragem,31/05/2016,716.52
+116,Cabo de Nylon Delta Velocity Oceanic Abyss,ancoragem,13/08/2018,660.69
+116,Cabo de Nylon Delta Velocity Oceanic Abyss,ancoragem,30/03/2020,499.25
+116,Cabo de Nylon Delta Velocity Oceanic Abyss,ancoragem,14/04/2020,496.71
+116,Cabo de Nylon Delta Velocity Oceanic Abyss,ancoragem,16/03/2022,502.24
+117,Corrente Danforth Zen Abyss Axis,ancoragem,19/04/2016,1154.74
+117,Corrente Danforth Zen Abyss Axis,ancoragem,20/04/2017,1304.74
+117,Corrente Danforth Zen Abyss Axis,ancoragem,18/02/2021,756.57
+117,Corrente Danforth Zen Abyss Axis,ancoragem,10/06/2022,823.4
+117,Corrente Danforth Zen Abyss Axis,ancoragem,08/09/2025,756.01
+118,Boia de Arqueamento Delta Force Vox,ancoragem,10/07/2017,1321.87
+118,Boia de Arqueamento Delta Force Vox,ancoragem,19/10/2018,1163.95
+118,Boia de Arqueamento Delta Force Vox,ancoragem,24/08/2021,814.0
+118,Boia de Arqueamento Delta Force Vox,ancoragem,23/11/2021,764.41
+118,Boia de Arqueamento Delta Force Vox,ancoragem,12/07/2022,797.41
+118,Boia de Arqueamento Delta Force Vox,ancoragem,06/11/2023,880.76
+118,Boia de Arqueamento Delta Force Vox,ancoragem,27/12/2023,893.4
+118,Boia de Arqueamento Delta Force Vox,ancoragem,20/09/2024,787.87
+119,Âncora Bruce Aqua,ancoragem,19/05/2016,904.47
+119,Âncora Bruce Aqua,ancoragem,28/06/2017,985.9
+119,Âncora Bruce Aqua,ancoragem,05/08/2021,632.7
+119,Âncora Bruce Aqua,ancoragem,08/12/2022,625.1
+119,Âncora Bruce Aqua,ancoragem,04/08/2023,669.88
+120,Boia de Arqueamento Danforth Flux Tidal,ancoragem,03/05/2017,992.44
+120,Boia de Arqueamento Danforth Flux Tidal,ancoragem,30/05/2018,836.23
+120,Boia de Arqueamento Danforth Flux Tidal,ancoragem,12/07/2018,810.34
+120,Boia de Arqueamento Danforth Flux Tidal,ancoragem,14/09/2018,746.18
+120,Boia de Arqueamento Danforth Flux Tidal,ancoragem,11/09/2020,591.22
+120,Boia de Arqueamento Danforth Flux Tidal,ancoragem,13/10/2020,559.4
+120,Boia de Arqueamento Danforth Flux Tidal,ancoragem,27/11/2020,584.15
+120,Boia de Arqueamento Danforth Flux Tidal,ancoragem,03/12/2021,553.73
+120,Boia de Arqueamento Danforth Flux Tidal,ancoragem,14/02/2022,599.71
+120,Boia de Arqueamento Danforth Flux Tidal,ancoragem,27/04/2022,622.89
+120,Boia de Arqueamento Danforth Flux Tidal,ancoragem,12/08/2022,612.44
+120,Boia de Arqueamento Danforth Flux Tidal,ancoragem,26/10/2022,586.85
+120,Boia de Arqueamento Danforth Flux Tidal,ancoragem,04/09/2023,635.45
+121,Âncora Danforth Oceanic Helix Flux,ancoragem,29/03/2016,1007.13
+121,Âncora Danforth Oceanic Helix Flux,ancoragem,22/02/2018,1133.49
+121,Âncora Danforth Oceanic Helix Flux,ancoragem,03/09/2019,886.96
+121,Âncora Danforth Oceanic Helix Flux,ancoragem,17/04/2020,702.77
+121,Âncora Danforth Oceanic Helix Flux,ancoragem,29/04/2020,680.53
+121,Âncora Danforth Oceanic Helix Flux,ancoragem,18/11/2020,698.01
+121,Âncora Danforth Oceanic Helix Flux,ancoragem,31/08/2021,718.35
+121,Âncora Danforth Oceanic Helix Flux,ancoragem,24/05/2023,746.8
+121,Âncora Danforth Oceanic Helix Flux,ancoragem,18/12/2023,747.93
+121,Âncora Danforth Oceanic Helix Flux,ancoragem,01/10/2024,677.66
+121,Âncora Danforth Oceanic Helix Flux,ancoragem,12/02/2025,640.2
+122,Corrente Danforth Zenith Oceanic Torque,ancoragem,06/04/2016,359.92
+122,Corrente Danforth Zenith Oceanic Torque,ancoragem,24/02/2017,426.78
+122,Corrente Danforth Zenith Oceanic Torque,ancoragem,26/04/2018,378.16
+122,Corrente Danforth Zenith Oceanic Torque,ancoragem,26/09/2018,326.02
+122,Corrente Danforth Zenith Oceanic Torque,ancoragem,29/11/2019,313.13
+122,Corrente Danforth Zenith Oceanic Torque,ancoragem,06/01/2020,326.15
+122,Corrente Danforth Zenith Oceanic Torque,ancoragem,24/09/2020,237.39
+122,Corrente Danforth Zenith Oceanic Torque,ancoragem,31/12/2020,254.51
+122,Corrente Danforth Zenith Oceanic Torque,ancoragem,02/03/2021,232.67
+122,Corrente Danforth Zenith Oceanic Torque,ancoragem,13/09/2022,255.36
+122,Corrente Danforth Zenith Oceanic Torque,ancoragem,14/09/2022,255.46
+122,Corrente Danforth Zenith Oceanic Torque,ancoragem,02/06/2023,266.89
+122,Corrente Danforth Zenith Oceanic Torque,ancoragem,11/07/2023,270.21
+122,Corrente Danforth Zenith Oceanic Torque,ancoragem,14/09/2023,271.3
+122,Corrente Danforth Zenith Oceanic Torque,ancoragem,12/12/2024,222.63
+123,Cabo de Nylon Danforth Orca Aero,ancoragem,25/10/2017,857.62
+123,Cabo de Nylon Danforth Orca Aero,ancoragem,05/10/2018,717.72
+123,Cabo de Nylon Danforth Orca Aero,ancoragem,02/09/2022,535.37
+123,Cabo de Nylon Danforth Orca Aero,ancoragem,16/12/2024,458.99
+123,Cabo de Nylon Danforth Orca Aero,ancoragem,30/04/2025,490.63
+124,Corrente Delta Axis,ancoragem,17/04/2018,1107.66
+124,Corrente Delta Axis,ancoragem,14/06/2019,971.46
+124,Corrente Delta Axis,ancoragem,24/03/2020,743.47
+124,Corrente Delta Axis,ancoragem,20/12/2022,719.16
+124,Corrente Delta Axis,ancoragem,27/02/2023,725.63
+124,Corrente Delta Axis,ancoragem,02/07/2024,665.23
+124,Corrente Delta Axis,ancoragem,08/04/2025,635.07
+125,Cabo de Nylon Danforth Kinetic,ancoragem,26/06/2020,622.83
+125,Cabo de Nylon Danforth Kinetic,ancoragem,17/11/2020,630.46
+125,Cabo de Nylon Danforth Kinetic,ancoragem,22/03/2023,646.27
+126,Corrente Danforth Hydro,ancoragem,05/02/2018,827.56
+126,Corrente Danforth Hydro,ancoragem,28/08/2018,649.99
+126,Corrente Danforth Hydro,ancoragem,31/05/2019,679.44
+126,Corrente Danforth Hydro,ancoragem,06/11/2019,663.54
+126,Corrente Danforth Hydro,ancoragem,22/01/2020,639.18
+126,Corrente Danforth Hydro,ancoragem,09/06/2020,545.77
+126,Corrente Danforth Hydro,ancoragem,28/10/2020,467.05
+127,Cabo de Nylon Delta Velocity Core Mako,ancoragem,15/06/2016,445.7
+127,Cabo de Nylon Delta Velocity Core Mako,ancoragem,29/08/2016,475.16
+127,Cabo de Nylon Delta Velocity Core Mako,ancoragem,09/11/2018,413.16
+127,Cabo de Nylon Delta Velocity Core Mako,ancoragem,04/01/2019,411.83
+127,Cabo de Nylon Delta Velocity Core Mako,ancoragem,16/12/2019,379.79
+127,Cabo de Nylon Delta Velocity Core Mako,ancoragem,14/10/2020,278.31
+127,Cabo de Nylon Delta Velocity Core Mako,ancoragem,23/04/2021,282.83
+127,Cabo de Nylon Delta Velocity Core Mako,ancoragem,07/07/2022,288.87
+127,Cabo de Nylon Delta Velocity Core Mako,ancoragem,06/01/2023,293.17
+127,Cabo de Nylon Delta Velocity Core Mako,ancoragem,27/03/2023,296.24
+127,Cabo de Nylon Delta Velocity Core Mako,ancoragem,04/08/2025,281.15
+128,Boia de Arqueamento Bruce Marlin Hydra,ancoragem,04/10/2018,1191.24
+128,Boia de Arqueamento Bruce Marlin Hydra,ancoragem,03/07/2019,1208.95
+128,Boia de Arqueamento Bruce Marlin Hydra,ancoragem,20/07/2020,867.2
+128,Boia de Arqueamento Bruce Marlin Hydra,ancoragem,22/09/2020,856.12
+128,Boia de Arqueamento Bruce Marlin Hydra,ancoragem,06/04/2022,990.34
+128,Boia de Arqueamento Bruce Marlin Hydra,ancoragem,26/04/2022,936.51
+128,Boia de Arqueamento Bruce Marlin Hydra,ancoragem,22/07/2022,853.09
+128,Boia de Arqueamento Bruce Marlin Hydra,ancoragem,19/08/2025,850.07
+129,Corrente Delta Boost,ancoragem,10/05/2016,939.48
+129,Corrente Delta Boost,ancoragem,29/11/2016,959.13
+129,Corrente Delta Boost,ancoragem,23/10/2017,1020.79
+129,Corrente Delta Boost,ancoragem,14/12/2017,980.08
+129,Corrente Delta Boost,ancoragem,30/07/2018,879.22
+129,Corrente Delta Boost,ancoragem,16/08/2018,841.72
+129,Corrente Delta Boost,ancoragem,01/04/2020,623.33
+129,Corrente Delta Boost,ancoragem,05/06/2020,656.27
+129,Corrente Delta Boost,ancoragem,14/06/2022,637.97
+129,Corrente Delta Boost,ancoragem,14/07/2022,598.62
+129,Corrente Delta Boost,ancoragem,17/01/2024,661.98
+129,Corrente Delta Boost,ancoragem,20/05/2025,576.93
+129,Corrente Delta Boost,ancoragem,15/10/2025,599.77
+130,Boia de Arqueamento Delta Zen Boost Vortex,ancoragem,01/11/2016,1293.13
+130,Boia de Arqueamento Delta Zen Boost Vortex,ancoragem,19/02/2019,1114.0
+130,Boia de Arqueamento Delta Zen Boost Vortex,ancoragem,17/03/2020,820.79
+130,Boia de Arqueamento Delta Zen Boost Vortex,ancoragem,01/03/2021,742.32
+130,Boia de Arqueamento Delta Zen Boost Vortex,ancoragem,22/03/2021,749.89
+130,Boia de Arqueamento Delta Zen Boost Vortex,ancoragem,15/06/2023,859.48
+130,Boia de Arqueamento Delta Zen Boost Vortex,ancoragem,18/03/2024,826.87
+130,Boia de Arqueamento Delta Zen Boost Vortex,ancoragem,26/06/2024,752.23
+131,Boia de Arqueamento Danforth Core Vortex,ancoragem,19/07/2019,257.63
+131,Boia de Arqueamento Danforth Core Vortex,ancoragem,11/03/2021,172.43
+131,Boia de Arqueamento Danforth Core Vortex,ancoragem,19/08/2022,185.47
+131,Boia de Arqueamento Danforth Core Vortex,ancoragem,07/06/2023,196.2
+131,Boia de Arqueamento Danforth Core Vortex,ancoragem,14/06/2024,179.69
+131,Boia de Arqueamento Danforth Core Vortex,ancoragem,13/08/2024,175.62
+132,Corrente Bruce Nautic Evo,ancoragem,22/02/2016,394.57
+132,Corrente Bruce Nautic Evo,ancoragem,27/02/2018,482.74
+132,Corrente Bruce Nautic Evo,ancoragem,31/12/2019,387.82
+132,Corrente Bruce Nautic Evo,ancoragem,12/03/2020,320.12
+132,Corrente Bruce Nautic Evo,ancoragem,20/08/2020,276.61
+132,Corrente Bruce Nautic Evo,ancoragem,15/02/2024,314.46
+132,Corrente Bruce Nautic Evo,ancoragem,18/12/2025,282.75
+133,Âncora Bruce Core Pulse,ancoragem,28/03/2016,519.96
+133,Âncora Bruce Core Pulse,ancoragem,27/06/2017,570.68
+133,Âncora Bruce Core Pulse,ancoragem,21/12/2017,572.87
+133,Âncora Bruce Core Pulse,ancoragem,09/01/2019,512.58
+133,Âncora Bruce Core Pulse,ancoragem,20/01/2020,452.55
+133,Âncora Bruce Core Pulse,ancoragem,03/06/2020,374.72
+133,Âncora Bruce Core Pulse,ancoragem,06/07/2022,348.47
+133,Âncora Bruce Core Pulse,ancoragem,01/03/2024,381.67
+134,Âncora Delta Storm Vox,ancoragem,20/10/2017,1482.27
+134,Âncora Delta Storm Vox,ancoragem,31/12/2019,1170.59
+134,Âncora Delta Storm Vox,ancoragem,05/12/2022,899.33
+134,Âncora Delta Storm Vox,ancoragem,06/09/2023,948.15
+135,Cabo de Nylon Danforth Titan Poseidon,ancoragem,30/09/2016,506.69
+135,Cabo de Nylon Danforth Titan Poseidon,ancoragem,13/10/2016,512.61
+135,Cabo de Nylon Danforth Titan Poseidon,ancoragem,25/10/2016,527.31
+135,Cabo de Nylon Danforth Titan Poseidon,ancoragem,29/01/2018,519.63
+135,Cabo de Nylon Danforth Titan Poseidon,ancoragem,05/07/2018,419.67
+135,Cabo de Nylon Danforth Titan Poseidon,ancoragem,15/03/2019,428.95
+135,Cabo de Nylon Danforth Titan Poseidon,ancoragem,03/04/2019,427.92
+135,Cabo de Nylon Danforth Titan Poseidon,ancoragem,21/10/2020,293.66
+135,Cabo de Nylon Danforth Titan Poseidon,ancoragem,30/06/2022,313.99
+135,Cabo de Nylon Danforth Titan Poseidon,ancoragem,31/10/2022,312.86
+135,Cabo de Nylon Danforth Titan Poseidon,ancoragem,24/01/2023,318.15
+135,Cabo de Nylon Danforth Titan Poseidon,ancoragem,09/03/2023,320.27
+135,Cabo de Nylon Danforth Titan Poseidon,ancoragem,11/04/2023,328.1
+135,Cabo de Nylon Danforth Titan Poseidon,ancoragem,14/08/2025,304.04
+136,Cabo de Nylon Bruce Flux Hydro,ancoragem,23/10/2017,616.78
+136,Cabo de Nylon Bruce Flux Hydro,ancoragem,27/11/2017,612.66
+136,Cabo de Nylon Bruce Flux Hydro,ancoragem,19/01/2018,615.16
+136,Cabo de Nylon Bruce Flux Hydro,ancoragem,01/11/2018,533.84
+136,Cabo de Nylon Bruce Flux Hydro,ancoragem,20/10/2023,390.62
+137,Âncora Danforth Impulse,ancoragem,08/12/2016,995.67
+137,Âncora Danforth Impulse,ancoragem,12/12/2016,1004.86
+137,Âncora Danforth Impulse,ancoragem,10/01/2017,1060.88
+137,Âncora Danforth Impulse,ancoragem,11/12/2017,1030.93
+137,Âncora Danforth Impulse,ancoragem,29/01/2018,1069.73
+137,Âncora Danforth Impulse,ancoragem,19/02/2018,1046.8
+137,Âncora Danforth Impulse,ancoragem,07/08/2018,912.23
+137,Âncora Danforth Impulse,ancoragem,28/12/2018,873.85
+137,Âncora Danforth Impulse,ancoragem,15/01/2019,913.93
+137,Âncora Danforth Impulse,ancoragem,08/03/2019,875.43
+137,Âncora Danforth Impulse,ancoragem,26/06/2020,619.79
+137,Âncora Danforth Impulse,ancoragem,04/04/2024,673.98
+137,Âncora Danforth Impulse,ancoragem,03/10/2025,632.89
+138,Boia de Arqueamento Delta Peak Boost Thrust,ancoragem,30/12/2019,1037.95
+138,Boia de Arqueamento Delta Peak Boost Thrust,ancoragem,11/03/2020,895.11
+138,Boia de Arqueamento Delta Peak Boost Thrust,ancoragem,17/09/2020,795.45
+138,Boia de Arqueamento Delta Peak Boost Thrust,ancoragem,08/02/2022,793.85
+138,Boia de Arqueamento Delta Peak Boost Thrust,ancoragem,22/02/2022,826.61
+138,Boia de Arqueamento Delta Peak Boost Thrust,ancoragem,25/05/2023,836.88
+138,Boia de Arqueamento Delta Peak Boost Thrust,ancoragem,22/05/2025,741.89
+139,Boia de Arqueamento Danforth Torque,ancoragem,11/10/2016,443.47
+139,Boia de Arqueamento Danforth Torque,ancoragem,31/12/2018,367.79
+139,Boia de Arqueamento Danforth Torque,ancoragem,30/10/2020,246.89
+140,Boia de Arqueamento Bruce Dash Titan Pulse,ancoragem,11/05/2017,993.43
+140,Boia de Arqueamento Bruce Dash Titan Pulse,ancoragem,26/10/2018,853.04
+140,Boia de Arqueamento Bruce Dash Titan Pulse,ancoragem,20/08/2020,554.75
+140,Boia de Arqueamento Bruce Dash Titan Pulse,ancoragem,03/02/2021,586.81
+140,Boia de Arqueamento Bruce Dash Titan Pulse,ancoragem,26/04/2024,612.49
+140,Boia de Arqueamento Bruce Dash Titan Pulse,ancoragem,25/06/2025,565.59
+141,Boia de Arqueamento Bruce Nexus Abyss,ancoragem,11/03/2016,1318.57
+141,Boia de Arqueamento Bruce Nexus Abyss,ancoragem,17/03/2016,1312.28
+141,Boia de Arqueamento Bruce Nexus Abyss,ancoragem,11/11/2016,1391.23
+141,Boia de Arqueamento Bruce Nexus Abyss,ancoragem,06/02/2017,1533.96
+141,Boia de Arqueamento Bruce Nexus Abyss,ancoragem,30/10/2017,1469.47
+141,Boia de Arqueamento Bruce Nexus Abyss,ancoragem,13/12/2018,1232.93
+141,Boia de Arqueamento Bruce Nexus Abyss,ancoragem,18/04/2019,1214.76
+141,Boia de Arqueamento Bruce Nexus Abyss,ancoragem,17/03/2022,942.08
+141,Boia de Arqueamento Bruce Nexus Abyss,ancoragem,08/08/2023,971.69
+141,Boia de Arqueamento Bruce Nexus Abyss,ancoragem,05/09/2023,962.15
+141,Boia de Arqueamento Bruce Nexus Abyss,ancoragem,26/10/2023,955.42
+141,Boia de Arqueamento Bruce Nexus Abyss,ancoragem,08/11/2023,978.89
+141,Boia de Arqueamento Bruce Nexus Abyss,ancoragem,08/12/2023,972.86
+141,Boia de Arqueamento Bruce Nexus Abyss,ancoragem,27/02/2025,821.3
+141,Boia de Arqueamento Bruce Nexus Abyss,ancoragem,05/03/2025,825.76
+142,Âncora Danforth Vector Evo,ancoragem,04/07/2017,250.09
+142,Âncora Danforth Vector Evo,ancoragem,17/08/2017,261.55
+142,Âncora Danforth Vector Evo,ancoragem,15/06/2018,219.02
+142,Âncora Danforth Vector Evo,ancoragem,27/03/2019,209.84
+142,Âncora Danforth Vector Evo,ancoragem,29/03/2019,212.11
+142,Âncora Danforth Vector Evo,ancoragem,13/11/2019,197.89
+142,Âncora Danforth Vector Evo,ancoragem,05/03/2020,178.87
+142,Âncora Danforth Vector Evo,ancoragem,09/11/2022,160.09
+142,Âncora Danforth Vector Evo,ancoragem,30/08/2023,169.88
+142,Âncora Danforth Vector Evo,ancoragem,16/09/2024,149.71
+142,Âncora Danforth Vector Evo,ancoragem,11/07/2025,148.33
+142,Âncora Danforth Vector Evo,ancoragem,24/09/2025,155.62
+143,Âncora Delta Hydra Kraken Velocity,ancoragem,01/06/2016,1228.25
+143,Âncora Delta Hydra Kraken Velocity,ancoragem,08/05/2017,1389.34
+143,Âncora Delta Hydra Kraken Velocity,ancoragem,19/04/2018,1305.95
+143,Âncora Delta Hydra Kraken Velocity,ancoragem,10/08/2018,1153.34
+143,Âncora Delta Hydra Kraken Velocity,ancoragem,30/05/2019,1117.09
+143,Âncora Delta Hydra Kraken Velocity,ancoragem,24/01/2020,1062.29
+143,Âncora Delta Hydra Kraken Velocity,ancoragem,05/08/2020,840.97
+143,Âncora Delta Hydra Kraken Velocity,ancoragem,23/04/2021,809.85
+143,Âncora Delta Hydra Kraken Velocity,ancoragem,25/08/2021,845.69
+143,Âncora Delta Hydra Kraken Velocity,ancoragem,24/05/2023,896.83
+143,Âncora Delta Hydra Kraken Velocity,ancoragem,04/11/2024,766.33
+143,Âncora Delta Hydra Kraken Velocity,ancoragem,30/01/2025,751.94
+143,Âncora Delta Hydra Kraken Velocity,ancoragem,09/06/2025,795.72
+143,Âncora Delta Hydra Kraken Velocity,ancoragem,04/08/2025,805.06
+143,Âncora Delta Hydra Kraken Velocity,ancoragem,23/09/2025,836.16
+144,Boia de Arqueamento Bruce Barracuda,ancoragem,13/05/2016,631.98
+144,Boia de Arqueamento Bruce Barracuda,ancoragem,15/03/2017,700.17
+144,Boia de Arqueamento Bruce Barracuda,ancoragem,17/04/2018,650.55
+144,Boia de Arqueamento Bruce Barracuda,ancoragem,16/11/2018,590.14
+144,Boia de Arqueamento Bruce Barracuda,ancoragem,06/09/2019,544.76
+144,Boia de Arqueamento Bruce Barracuda,ancoragem,04/08/2022,422.52
+144,Boia de Arqueamento Bruce Barracuda,ancoragem,11/03/2024,444.87
+144,Boia de Arqueamento Bruce Barracuda,ancoragem,17/09/2024,402.54
+145,Boia de Arqueamento Delta Nexus,ancoragem,08/07/2016,1319.66
+145,Boia de Arqueamento Delta Nexus,ancoragem,19/02/2020,994.89
+145,Boia de Arqueamento Delta Nexus,ancoragem,30/11/2020,815.94
+145,Boia de Arqueamento Delta Nexus,ancoragem,22/06/2022,844.58
+145,Boia de Arqueamento Delta Nexus,ancoragem,13/10/2022,820.56
+145,Boia de Arqueamento Delta Nexus,ancoragem,09/02/2024,875.03
+145,Boia de Arqueamento Delta Nexus,ancoragem,04/12/2024,718.09
+146,Corrente Delta Vox Ion,ancoragem,03/05/2016,139.54
+146,Corrente Delta Vox Ion,ancoragem,24/11/2016,145.96
+146,Corrente Delta Vox Ion,ancoragem,02/01/2018,151.72
+146,Corrente Delta Vox Ion,ancoragem,19/02/2018,153.36
+146,Corrente Delta Vox Ion,ancoragem,19/08/2021,91.55
+146,Corrente Delta Vox Ion,ancoragem,27/01/2022,92.18
+146,Corrente Delta Vox Ion,ancoragem,04/05/2022,99.02
+146,Corrente Delta Vox Ion,ancoragem,29/07/2024,87.83
+146,Corrente Delta Vox Ion,ancoragem,05/12/2024,82.88
+147,Corrente Danforth Force Leviathan Impulse,ancoragem,13/05/2016,864.87
+147,Corrente Danforth Force Leviathan Impulse,ancoragem,03/05/2017,962.45
+147,Corrente Danforth Force Leviathan Impulse,ancoragem,29/10/2020,524.26
+147,Corrente Danforth Force Leviathan Impulse,ancoragem,24/11/2021,540.88
+147,Corrente Danforth Force Leviathan Impulse,ancoragem,21/03/2022,610.17
+147,Corrente Danforth Force Leviathan Impulse,ancoragem,25/08/2022,592.19
+148,Âncora Delta Force Barracuda Mako,ancoragem,06/06/2017,1458.52
+148,Âncora Delta Force Barracuda Mako,ancoragem,15/01/2018,1497.5
+148,Âncora Delta Force Barracuda Mako,ancoragem,19/02/2018,1479.72
+148,Âncora Delta Force Barracuda Mako,ancoragem,08/03/2018,1471.94
+148,Âncora Delta Force Barracuda Mako,ancoragem,21/01/2019,1269.41
+148,Âncora Delta Force Barracuda Mako,ancoragem,21/03/2019,1260.65
+148,Âncora Delta Force Barracuda Mako,ancoragem,02/09/2020,890.59
+148,Âncora Delta Force Barracuda Mako,ancoragem,07/12/2021,848.43
+148,Âncora Delta Force Barracuda Mako,ancoragem,25/03/2022,1001.67
+148,Âncora Delta Force Barracuda Mako,ancoragem,10/11/2022,901.95
+148,Âncora Delta Force Barracuda Mako,ancoragem,28/02/2023,919.03
+148,Âncora Delta Force Barracuda Mako,ancoragem,28/09/2023,948.22
+148,Âncora Delta Force Barracuda Mako,ancoragem,17/11/2023,979.78
+148,Âncora Delta Force Barracuda Mako,ancoragem,18/06/2024,885.1
+148,Âncora Delta Force Barracuda Mako,ancoragem,21/07/2025,860.42
+149,Cabo de Nylon Bruce Core,ancoragem,19/02/2016,287.41
+149,Cabo de Nylon Bruce Core,ancoragem,17/03/2016,319.33
+149,Cabo de Nylon Bruce Core,ancoragem,25/08/2017,369.92
+149,Cabo de Nylon Bruce Core,ancoragem,28/12/2018,300.35
+149,Cabo de Nylon Bruce Core,ancoragem,04/01/2019,309.3
+149,Cabo de Nylon Bruce Core,ancoragem,01/10/2019,278.82
+149,Cabo de Nylon Bruce Core,ancoragem,29/06/2020,213.86
+149,Cabo de Nylon Bruce Core,ancoragem,20/07/2021,221.82
+149,Cabo de Nylon Bruce Core,ancoragem,11/07/2022,217.62
+149,Cabo de Nylon Bruce Core,ancoragem,14/02/2023,225.94
+150,Cabo de Nylon Danforth Magnum Vox,ancoragem,28/11/2018,426.06
+150,Cabo de Nylon Danforth Magnum Vox,ancoragem,28/12/2018,424.77
+150,Cabo de Nylon Danforth Magnum Vox,ancoragem,19/02/2019,442.38
+150,Cabo de Nylon Danforth Magnum Vox,ancoragem,17/09/2020,312.94
+150,Cabo de Nylon Danforth Magnum Vox,ancoragem,09/08/2022,321.31
+150,Cabo de Nylon Danforth Magnum Vox,ancoragem,01/06/2023,326.88
+150,Cabo de Nylon Danforth Magnum Vox,ancoragem,31/01/2024,332.26
+150,Cabo de Nylon Danforth Magnum Vox,ancoragem,29/08/2024,292.03
+150,Cabo de Nylon Danforth Magnum Vox,ancoragem,04/10/2024,300.96
+150,Cabo de Nylon Danforth Magnum Vox,ancoragem,25/10/2024,288.9

@@ -1,0 +1,55 @@
+# Ambiente Virtual
+.venv/
+venv/
+env/
+ENV/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Arquivos Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+/media
+/staticfiles
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Modelos treinados (temporários)
+/models/
+!models/ner_model/
+
+# Dados temporários
+/data/*.json
+/data/*.csv
+*.tmp
+
+# Variables de ambiente
+.env
+.env.local
+
+# Coverage
+.coverage
+htmlcov/
+
+# Build
+build/
+dist/
+*.egg-info/
+
